@@ -1,0 +1,5 @@
+Pravidla MineHubu (před i po kompilaci; dostupné v souboru data/source.md) jsou zde publikována včetně historie změn, nicméně právo je užívat nebo publikovat náleží pouze MineHubu. Pravidla jsou chráněna autorským právem (© MineHub.cz 2022).
+
+Užitý software, který je součástí tohoto projektu se řídí vlastními licencemi:
+bin/Parsedown.php: https://github.com/MineHubCZ/Markdown-rules/blob/master/LICENSE
+compile, watch: https://github.com/erusev/parsedown/blob/master/LICENSE.txt
