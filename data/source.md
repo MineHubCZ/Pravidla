@@ -47,6 +47,8 @@
     135: Discord role **Nápady Ban** (id 852223268118855680) je forma trestu, která hráči na Discordu omezuje právo psát do kanálu \#nápady (id 705396261951504412). Hráč tak může nápady jen číst a nebo pro ně či proti nim hlasovat. Je udělována hráčům při opakovaném zneužívání funkce a udělení trestu je možné jen v souladu s @133.
     
     136: Discord role **Chálky Ban** (id 968937679960047636) je forma trestu, která hráči na Discordu omezuje právo zobrazovat si kanál \#chálky (id 968937135245783080) a právo psát do něj. Je udělována hráčům při opakovaném zneužívání kanálu a udělení trestu je možné jen v souladu s @133.
+    
+    137: **Pokuta** je forma trestu na Serveru, která spočívá v odnětí procentuálního podílu z dollarového účtu hráče v rozmezí od 10 % do 50 % včetně.
 
   § Herní prvky
     68: **Item** je herní předmět.
