@@ -305,3 +305,4 @@
     
     115: Hráč má právo na poradenství ohledně výkladu konkrétního pravidla nebo posouzení aplikace pravidla na vzorové situaci. Toto právo může uplatnit v Discord ticketu nebo v soukromé zprávě uživateli CoolFido\#0276 (id 246313969181130752).
     
+    
