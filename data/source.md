@@ -40,7 +40,7 @@
       
     19: **Warn**, **varování** je trest, který varuje hráče o jeho jednání, které je proti pravidlům. Při dosažení počtu 3 varování dojde k vyhození hráče a při dosažení počtu 4 varování dojde k zabanování hráče na 12 hodin. K resetu počtu varování dochází při restartu BungeeCordu.
     
-    132: Discord role **InfoChannelOnly** (id 816049214077009970) je format trestu, která hráči na Discordu dovoluje přístup pouze do kanálů z kategorie Informace (id 673312636120727594). Je udělována hráčům při opakované recidivě a udělení trestu je možné jen v souladu s @133.
+    132: Discord role **InfoChannelOnly** (id 816049214077009970) je forma trestu, která hráči na Discordu dovoluje přístup pouze do kanálů z kategorie Informace (id 673312636120727594). Je udělována hráčům při opakované recidivě a udělení trestu je možné jen v souladu s @133.
     
     134: Discord role **Podpora Ban** (id 852223077419974707) je forma trestu, která hráči na Discordu zakazuje přístup ke kanálu \#tickety (id 747897838511587348), tudíž brání v založení Discord ticketu. Hráč je stále opravněn využít pro komunikaci např. e-mailovou adresu dle @109. Je udělována hráčům při opakovaném zneužívání funkce a udělení trestu je možné jen v souladu s @133.
     
