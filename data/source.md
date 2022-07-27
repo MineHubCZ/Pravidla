@@ -154,7 +154,7 @@
 
     46: Hráči je zakázáno na komunikačních kanálech hovořit o nelegálních drogách.
 
-    75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního vztahu či za účelem získání jeho citlivých údajů.
+    75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního nebo romantického vztahu či za účelem získání jeho citlivých údajů.
 
     103: Text bossbar reklamy nesmí obsahovat vulgarismy.
     
