@@ -1,0 +1,13 @@
+before_script:
+  - cd /var/www/rules.minehub.cz/
+
+deploy:
+    stage: deploy
+    script:
+      - dep deploy
+    rules:
+      - if: $CI_COMMIT_BRANCH == "master" && $CI_PIPELINE_SOURCE == "push"
+        changes:
+          - data/source.md
+        when: always
+      - when: never

@@ -1,0 +1,220 @@
+#!/usr/bin/env php
+
+<?php
+
+// Format and check args
+@[$_, $src, $dst, $opt] = $_SERVER['argv'];
+
+if (!$src || !$dst)
+    return terminate(['Usage: php compile <source> <destination> [options]', '', 'Options:', ' d - shows defined paragraph number']);
+
+// Check source file and load it
+if (!is_file($src))
+    return terminate('Soruce file doesn\'t exist!');
+$input = file_get_contents($src);
+
+// Create arrays for every type's indexing
+$heads = [];
+$sections = [];
+$paragraphs = [];
+
+// Create variables for current type's ids
+$head = 0;
+$section = 0;
+$paragraph = 0;
+
+// Create tree array and output string
+$tree = [];
+$output = '';
+
+// Iterate over input file lines
+foreach (explode(PHP_EOL, $input) as $line)
+{
+    // Head
+    if (str_contains(str_replace('\\#', '', $line), '#'))
+    {
+        // Set current head id
+        $head = count($heads);
+        
+        // Add current head to heads array
+        $heads[] = trim(str_replace('#', '', $line));
+        
+        // Create array for sections of this head in tree array
+        $tree[$head] = [];
+        continue;
+    }
+
+    // Section
+    if (str_contains(str_replace('\\§', '', $line), '§'))
+    {
+        // Set current section id
+        $section = count($sections);
+        
+        // Add current section to sections array
+        $sections[] = trim(str_replace('§', '', $line));
+        
+        // Create array for parahraphs of this section in tree array
+        $tree[$head][$section] = [];
+        continue;
+    }
+    
+    // Paragraph
+    if (preg_match('/^\s*(\d+):(.+)/i', $line))
+    {
+        // Match paragraph's defined position and the paragraph itself 
+        $x = preg_replace_callback('/^\s*(\d+):(.+)/i', function ($matches) use ($head, $section, &$paragraph, &$paragraphs, &$tree, $opt) {
+            // Unroll matches array
+            [$_, $position, $content] = $matches;
+            
+            // Trim the paragraph
+            $content = trim($content);
+            
+            // Unescape hashes
+            $content = str_replace('\\#', '#', $content);
+            
+            // If debug is on, add defined position to paragraph content
+            if (str_contains($opt, 'd'))
+                $content = "[$position] " . $content;
+            
+            // Set current paragraph id to it's position
+            $paragraph = count($tree[$head][$section]);
+            
+            // Add current paragraph to paragraphs array
+            $paragraphs[$position] = $content;
+            
+            // Add current paragraph to tree
+            $tree[$head][$section][] = $content;
+        }, $line);
+        continue;
+    }
+    
+    // New line of paragraph
+    if (trim($line))
+    {
+        // If the line is not ordered list, output two new lines.
+        $space = PHP_EOL . (preg_match('/\d\./', $line) ? null : PHP_EOL);
+        $paragraphs[$paragraph] .= $space . $line;
+        $tree[$head][$section][$paragraph] .= $space . $line;
+    }
+}
+
+// Create variable for keeping track of last output type
+$last = 2;
+
+// Iterate over heads from the tree
+foreach ($tree as $head_id => $head_sections)
+{
+    // If the last head's iteration was finished, output empty line
+    if ($last == 0) output();
+    
+    // Output current head
+    output('## Hlava ' . getRomenianNumerals($head_id + 1) . '. - ' . $heads[$head_id]);
+    
+    // Iterate over sections of current head
+    foreach ($head_sections as $section_id => $section_paragraphs)
+    {
+        // If the last head's iteration was finished, output empty line
+        if ($last == 1) output();
+        
+        // Output current section
+        output('### § ' . $section_id + 1 . ' - ' . $sections[$section_id]);
+        
+        // Iterate over paragraphs of current section
+        foreach ($section_paragraphs as $paragraph_id => $iterated_paragraph)
+        {
+            // Save current paragraph to variable
+            $line = $iterated_paragraph;
+            
+            // Match and replace paragraph mentions
+            $line = preg_replace_callback('/(\@)(\d+)/i', function ($matches) use ($paragraphs) {
+                // Get mentioned paragraph's defined position
+                $mentioned_position = array_pop($matches);
+                
+                // Get mentioned paragraph
+                $mentioned_paragraph = $paragraphs[$mentioned_position];
+                
+                // Extract paragraph's section id and paragraph id
+                [$head_id, $section_id, $paragraph_id] = getPathToParagraph($mentioned_paragraph);
+                
+                // Replace the paragraph mention with id of the mentioned paragraph and it's section id
+                return '§ ' . $section_id + 1 . ' odst. ' . $paragraph_id + 1;
+            }, $line);
+
+            // Output current formatted paragraph
+            output($paragraph_id + 1 . '. ' . $line);
+
+            // Set last type to paragraph
+            $last = 2;
+        }     
+
+        // Set last type to section
+        $last = 1;
+    }
+
+    // Set last type to head
+    $last = 0;
+}
+
+// Save output to the designated file
+file_put_contents($dst, $output);
+return terminate('Rules file has been exported successfully! Last paragraph position: ' . count($paragraphs) + 1);
+
+// ------------ Functions ------------
+
+/**
+ * Prints formatted exit message.
+ *
+ * @param string|string[] $message
+ * @return string
+ */
+function terminate($message)
+{
+    if (is_array($message))
+        $message = implode(PHP_EOL, $message);
+    return print PHP_EOL . $message . PHP_EOL;
+}
+
+/**
+ * Iterates over the tree array and finds path to given paragraph.
+ *
+ * @param string $matching_paragraph
+ * @return array|bool
+ */
+function getPathToParagraph($matching_paragraph)
+{
+    global $tree;
+    foreach ($tree as $head_id => $head_sections)
+        foreach ($head_sections as $section_id => $section_paragraphs)
+            foreach ($section_paragraphs as $paragraph_id => $iterated_paragraph)
+                if ($iterated_paragraph == $matching_paragraph)
+                    return [$head_id, $section_id, $paragraph_id];
+    return false;
+}
+
+/**
+ * Adds given argument to output string.
+ *
+ * @param string $content
+ * @return void
+ */
+function output($content = '')
+{
+    global $output;
+    $output .= $content . PHP_EOL;
+}
+
+/**
+ * Converts int to romenian numeral.
+ * @see https://stackoverflow.com/a/68423305
+ *
+ * @param int $N
+ * @return string
+ */
+function getRomenianNumerals($N)
+{
+    $c = 'IVXLCDM';
+    for ($a = 5, $b = 0, $s = ''; $N; $b++, $a ^= 7)
+        for ($o = $N % $a, $N = $N / $a ^ 0; $o--; )
+            $s = $c[$o > 2 ? $b + $N - ($N &= -2) + $o = 1 : $b] . $s;
+    return $s;
+}

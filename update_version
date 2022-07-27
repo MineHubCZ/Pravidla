@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+
+<?php
+
+$metadata = file_get_contents('data/metadata.json');
+$metadata = json_decode($metadata);
+
+$metadata->version += 1;
+
+$metadata = json_encode($metadata, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+file_put_contents('data/metadata.json', $metadata);

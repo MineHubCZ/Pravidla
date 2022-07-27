@@ -1,0 +1,44 @@
+body {
+    color: #c9cdd3;
+    background-color: #2f3542;
+    font-size: 1.2rem;
+}
+
+* {
+    font-family: 'Consolas', sans-serif;
+}
+
+a {
+    color: #70a1ff;
+}
+
+a:hover {
+    color: #5352ed;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+h3 {
+    margin-top: 1rem;
+}
+
+code {
+    background-color: #dfe4ea;
+    padding: 0.25rem 0.25rem;
+    border-radius: 0.25rem;
+}
+
+b, strong {
+    color: #dfe4ea;
+    font-weight: 800;
+}
+
+.card {
+    background-color: #3a414e;
+}
