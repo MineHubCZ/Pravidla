@@ -40,13 +40,15 @@
       
     19: **Warn**, **varování** je trest, který varuje hráče o jeho jednání, které je proti pravidlům. Při dosažení počtu 3 varování dojde k vyhození hráče a při dosažení počtu 4 varování dojde k zabanování hráče na 12 hodin. K resetu počtu varování dochází při restartu BungeeCordu.
     
-    132: Discord role **InfoChannelOnly** (id 816049214077009970) je format trestu, která hráči na Discordu dovoluje přístup pouze do kanálů z kategorie Informace (id 673312636120727594). Je udělována hráčům při opakované recidivě a udělení trestu je možné jen v souladu s @133.
+    132: Discord role **InfoChannelOnly** (id 816049214077009970) je forma trestu, která hráči na Discordu dovoluje přístup pouze do kanálů z kategorie Informace (id 673312636120727594). Je udělována hráčům při opakované recidivě a udělení trestu je možné jen v souladu s @133.
     
     134: Discord role **Podpora Ban** (id 852223077419974707) je forma trestu, která hráči na Discordu zakazuje přístup ke kanálu \#tickety (id 747897838511587348), tudíž brání v založení Discord ticketu. Hráč je stále opravněn využít pro komunikaci např. e-mailovou adresu dle @109. Je udělována hráčům při opakovaném zneužívání funkce a udělení trestu je možné jen v souladu s @133.
     
     135: Discord role **Nápady Ban** (id 852223268118855680) je forma trestu, která hráči na Discordu omezuje právo psát do kanálu \#nápady (id 705396261951504412). Hráč tak může nápady jen číst a nebo pro ně či proti nim hlasovat. Je udělována hráčům při opakovaném zneužívání funkce a udělení trestu je možné jen v souladu s @133.
     
     136: Discord role **Chálky Ban** (id 968937679960047636) je forma trestu, která hráči na Discordu omezuje právo zobrazovat si kanál \#chálky (id 968937135245783080) a právo psát do něj. Je udělována hráčům při opakovaném zneužívání kanálu a udělení trestu je možné jen v souladu s @133.
+    
+    137: **Pokuta** je forma trestu na Serveru, která spočívá v odnětí procentuálního podílu z dollarového účtu hráče v rozmezí od 10 % do 50 % včetně.
 
   § Herní prvky
     68: **Item** je herní předmět.
@@ -154,7 +156,7 @@
 
     46: Hráči je zakázáno na komunikačních kanálech hovořit o nelegálních drogách.
 
-    75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního vztahu či za účelem získání jeho citlivých údajů.
+    75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního nebo romantického vztahu či za účelem získání jeho citlivých údajů.
 
     103: Text bossbar reklamy nesmí obsahovat vulgarismy.
     
@@ -277,7 +279,7 @@
     110: Výhradně pro potřeby zákazníků Shopu (viz [Všeobecné obchodní podmínky](https://shop.minehub.cz/docs/vop)) je zřízena telefonní linka s telefonním číslem [+420 910 125 623](tel:00420910125623), které je obsluhováno osobami kompetentními k řešení naléhavých problémů týkajících se nákupů na Shopu. Tato linka je také určena jako oficiálni komunikační kanál pro státní instituce za účelem telefonické komunikace s Provozovatelem.
     
   § Discord
-    111: Na Discordu je textový kanál \#tickety (id 747897838511587348), který je určen ke zprostředkování vytvoření tzv. ticketu.
+    111: Na Discordu se nachází textový kanál \#tickety (id 747897838511587348), který je určen ke zprostředkování vytvoření tzv. ticketu.
     
     112: Ticket je preferovaný komunikační prostředek pro záležitosti, které jsou popsány výše v Pravidlech nebo v samotném kanále. Po založení ticketu kliknutím na tlačítko je hráč přesunut do speciálního textového kanálu, ve kterém je také přítomna část a-teamu ("ticket" - manageři, developeři, admini, moderátoři, helpeři; "ticket s vedením" - vyšší a-team).
     
