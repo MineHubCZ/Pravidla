@@ -277,7 +277,7 @@
     110: Výhradně pro potřeby zákazníků Shopu (viz [Všeobecné obchodní podmínky](https://shop.minehub.cz/docs/vop)) je zřízena telefonní linka s telefonním číslem [+420 910 125 623](tel:00420910125623), které je obsluhováno osobami kompetentními k řešení naléhavých problémů týkajících se nákupů na Shopu. Tato linka je také určena jako oficiálni komunikační kanál pro státní instituce za účelem telefonické komunikace s Provozovatelem.
     
   § Discord
-    111: Na Discordu je textový kanál \#tickety (id 747897838511587348), který je určen ke zprostředkování vytvoření tzv. ticketu.
+    111: Na Discordu se nachází textový kanál \#tickety (id 747897838511587348), který je určen ke zprostředkování vytvoření tzv. ticketu.
     
     112: Ticket je preferovaný komunikační prostředek pro záležitosti, které jsou popsány výše v Pravidlech nebo v samotném kanále. Po založení ticketu kliknutím na tlačítko je hráč přesunut do speciálního textového kanálu, ve kterém je také přítomna část a-teamu ("ticket" - manageři, developeři, admini, moderátoři, helpeři; "ticket s vedením" - vyšší a-team).
     
