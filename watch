@@ -1,4 +1,8 @@
+#!/usr/bin/env php
+
 <?php
+
+/** @see https://github.com/MineHubCZ/Markdown-rules/blob/master/watch */
 
 // Format and check args
 @[$_, $src, $dst, $opt] = $_SERVER['argv'];

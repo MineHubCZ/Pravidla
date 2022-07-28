@@ -2,6 +2,8 @@
 
 <?php
 
+/** @see https://github.com/MineHubCZ/Markdown-rules/blob/master/compile */
+
 // Format and check args
 @[$_, $src, $dst, $opt] = $_SERVER['argv'];
 
