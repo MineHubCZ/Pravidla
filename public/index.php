@@ -44,7 +44,7 @@
     
     <section>
         <?php
-            include '../bin/Parsedown.php';
+            include '../lib/Parsedown.php';
             $content = file_get_contents('../data/compiled.md');
             
             $pd = new Parsedown();
