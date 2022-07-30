@@ -3,5 +3,6 @@ Pravidla MineHubu (před i po kompilaci; dostupné v souboru data/source.md) jso
 Obsah složky public je chráněn autorským právem (© MineHub.cz 2022).
 
 Užitý software, který je součástí tohoto projektu se řídí vlastními licencemi:
-bin/Parsedown.php: https://github.com/MineHubCZ/Markdown-rules/blob/master/LICENSE
-compile, watch: https://github.com/erusev/parsedown/blob/master/LICENSE.txt
+lib/Parsedown.php: https://github.com/erusev/parsedown/blob/master/LICENSE.txt 
+compile, watch: https://github.com/MineHubCZ/Markdown-rules/blob/master/LICENSE
+
