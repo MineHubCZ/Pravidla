@@ -235,7 +235,7 @@
     
     64: V systému aukcí (příkaz `/ah`) je hráči zakázáno prodávat itemy za účelem propagace vlastního warpu nebo obchodu nebo itemy s názvy obsahujícími vulgarismy. Jedná se např. o itemy s názvy odpovídajícími názvu propagovaného místa.
     
-    73: Je zakázáno hráče navádět k provádění nákupů platebními cedulkami (@83), které nejsou viditelné a není proto zřejmé, že hráč provede transakci.
+    73: Je zakázáno hráče navádět k provádění nákupů platebními cedulkami (@83), které nejsou čitelné a není proto zřejmé, že hráč provede transakci.
     
     74: Hráči je zakázáno umisťovat platební cedulky (@83) tak, že je možné, že je jiný hráč při teleportování na warp neúmyslně zaktivuje.
     
