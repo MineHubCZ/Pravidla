@@ -122,8 +122,6 @@
     37: Hráči je zakázána krádež nebo pokus o ni.
   
     30: Hráči je zakázáno poškozovat herní světy serveru (včetně Mineworldu, kde je však dovoleno těžení za účelem zisku surovin). Za poškozování světa je považováno zejména, ale ne výhradně: rozlévání kapalin na povrchu světa; budování staveb, které architektonickohistoricky nezapadají do daného prostředí; stavba sloupů z odpadního materiálu (cobblestone, dirt, sand, ...).
-    
-    43: V Mineworldu platí @30, avšak v tomto případě se těžba za účelem zisku surovin se nepovažuje za poškozování světa.
         
     63: Ve světě The End je hráči zakázáno poškozovat spawn (prostředí, kam je hráč teleportován po připojení do světa The End).
     
