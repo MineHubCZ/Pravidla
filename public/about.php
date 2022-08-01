@@ -28,7 +28,7 @@
             </p>
             
             <p>
-                Mimo to je také surový soubor pravidel před kompilací dostupný na <a href="#">GitHub repozitáři</a>, kde je možno také dohledat historii všech změn pravidel od 27. 7. 2022.
+                Mimo to je také surový soubor pravidel před kompilací dostupný na <a href="https://github.com/MineHubCZ/Pravidla">GitHub repozitáři</a>, kde je možno také dohledat historii všech změn pravidel od 27. 7. 2022.
             </p>
             
             <p class="mb-0 ps-2 text-muted">

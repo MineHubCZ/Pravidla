@@ -122,8 +122,6 @@
     37: Hráči je zakázána krádež nebo pokus o ni.
   
     30: Hráči je zakázáno poškozovat herní světy serveru (včetně Mineworldu, kde je však dovoleno těžení za účelem zisku surovin). Za poškozování světa je považováno zejména, ale ne výhradně: rozlévání kapalin na povrchu světa; budování staveb, které architektonickohistoricky nezapadají do daného prostředí; stavba sloupů z odpadního materiálu (cobblestone, dirt, sand, ...).
-    
-    43: V Mineworldu platí @30, avšak v tomto případě se těžba za účelem zisku surovin se nepovažuje za poškozování světa.
         
     63: Ve světě The End je hráči zakázáno poškozovat spawn (prostředí, kam je hráč teleportován po připojení do světa The End).
     
@@ -150,7 +148,7 @@
       
     29: Hráči je zakázáno propagovat konkurenční herní portály. Za takovouto propagaci (tzv. reklamu) je považováno zejména, ale ne výlučně: název, IP adresa, doménové jméno Minecraft Serveru nebo TeamSpeak 3 Serveru; webová adresa; Discord pozvánka; odkaz na profil na sociálních sítích.
     
-    34: Hráči je dovoleno na Discordu libovolně reagovat na zprávy ostatních hráčů a zasílat zprávy libovolného obsahu neporušujícího pravidla. Zakázané jsou reakce a zprávy obsahující NSFW obsah. Zprávy v rozporu s pravidly a reakce obsahující NSFW obsah jsou členové a-teamu oprávněni odstraňovat, jiné pouze ve výjimečném případě.
+    34: Hráči je dovoleno na Discordu libovolně reagovat na zprávy ostatních hráčů a zasílat zprávy libovolného obsahu neporušujícího pravidla. Zakázané jsou reakce a zprávy obsahující NSFW obsah. Zprávy v rozporu s pravidly a reakce obsahující NSFW obsah jsou členové a-teamu oprávněni odstraňovat, jiné pouze ve zvláště výjimečném případě.
     
     36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv ([spamming](https://en.wikipedia.org/wiki/Spamming)).
 
@@ -163,7 +161,7 @@
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
     
-    57: Pokud se k hráči (nebo poblíž něj) teleportuje druhý hráč, je oběma hráčům zakázáno se na sebe zaútočit nebo se pokusit jeden druhého či vzájemně zabít po dobu ~20 sekund.
+    57: Pokud se k hráči (nebo poblíž něj) teleportuje druhý hráč, je oběma hráčům zakázáno na sebe zaútočit nebo se pokusit jeden druhého či vzájemně zabít po dobu ~20 sekund.
     
     126: Zabití za nedodržení pravidla @57 se považuje za tzv. tpakill a je trestné.
     
@@ -237,7 +235,7 @@
     
     64: V systému aukcí (příkaz `/ah`) je hráči zakázáno prodávat itemy za účelem propagace vlastního warpu nebo obchodu nebo itemy s názvy obsahujícími vulgarismy. Jedná se např. o itemy s názvy odpovídajícími názvu propagovaného místa.
     
-    73: Je zakázáno hráče navádět k provádění nákupů platebními cedulkami (@83), které nejsou viditelné a není proto zřejmé, že hráč provede transakci.
+    73: Je zakázáno hráče navádět k provádění nákupů platebními cedulkami (@83), které nejsou čitelné a není proto zřejmé, že hráč provede transakci.
     
     74: Hráči je zakázáno umisťovat platební cedulky (@83) tak, že je možné, že je jiný hráč při teleportování na warp neúmyslně zaktivuje.
     
