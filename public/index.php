@@ -44,18 +44,16 @@
     
     <section>
         <?php
-            //include '../lib/Parsedown.php';
+            include '../lib/Parsedown.php';
             $content = file_get_contents('../data/compiled.md');
             
-            /*$pd = new Parsedown();
+            $pd = new Parsedown();
             $md =  $pd->text($content);
             $md = preg_replace_callback(
                 '/\(id \d*\)/',
                 fn ($matches) => '<span class="text-muted">' . $matches[0] . '</span>',
                 $md
-            );*/
-
-            $md = 'x';
+            );
             
             echo $md;
         ?>
