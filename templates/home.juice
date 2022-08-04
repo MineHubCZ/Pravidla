@@ -1,0 +1,27 @@
+{ extends 'layout' }
+
+{ block 'content' }
+<body class="py-5 container">  
+    <header class="text-center">
+        <h1>
+            MineHub.cz Pravidla
+        </h1>
+        
+        <p class="text-muted">
+            verze: {{ $metadata->version }},
+            poslední změna: {{ $last_edit_formatted }},
+            <a href="/about.php" class="text-muted">
+                informace
+            </a>
+        </p>
+    </header>
+    
+    <section>
+        {! $content |> markdown !}
+    </section>
+    
+    <footer class="mt-5 text-center text-muted small">
+        &copy; Minehub.cz {{ $last_edit_year }}, developed by CoolFido and Moravak
+    </footer>
+</body>
+{ /block }
