@@ -15,6 +15,7 @@ $lifecycle->get('templating');
 $env = $lifecycle->get('templating.env');
 $env->macro('markdown', function(string $text) {
     $pd = new \Parsedown();
+    $pd->setSafeMode(true);
     $result = $pd->text($text);
     $result = preg_replace(
         '/\(id \d*\)/',
