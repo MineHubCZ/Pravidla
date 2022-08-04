@@ -1,1 +1,2 @@
 *.juice diff=html
+*.juice gitlab-language=html
