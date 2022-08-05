@@ -7,8 +7,6 @@ require __DIR__.'/../vendor/autoload.php';
 
 $lifecycle = Lifecycle::init(__DIR__);
 
-config('kernel.debug', true);
-
 $lifecycle->get('templating');
 
 /** @var \Lemon\Templating\Enviroment $env */
