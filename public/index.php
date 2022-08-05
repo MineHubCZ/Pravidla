@@ -41,3 +41,7 @@ Route::get('/', function(Lifecycle $lifecycle) {
 });
 
 Route::template('about', 'about');
+
+Route::get('markdown', 
+    fn() => file_get_contents($lifecycle->file('data.compiled', 'md'))
+);
