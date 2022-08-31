@@ -93,6 +93,8 @@
     100: Hráči není dovoleno jakýmkoliv způsobem zveřejňovat nebo sdělovat tajné informace týkající se zejména osobních údajů jiných hráčů, připravovaných novinek nebo systémových/bezpečnostních chyb. V případě zjištění takovýchto informací je povinen zachovat mlčenlivost.
     
     125: Hráč, který je subjektem osobních údajů utajovaných dle @100 může jiného hráče zprostit mlčenlivosti.
+
+    138: Hráči je zakázáno vytěžování informací od členů a-teamu, jenž jsou interního charakteru (např. užité fonty na herním serveru, použité pluigny atd.). Pravidlo se nevztahuje na dotazy obecného rázu, jako např. „Máte na serveru vlastní pluginy dělané na míru?“.
     
   § Užívání služeb
     24: Hráči je zakázáno jednat tak, že by mohl poškodit provozovatele, jim poskytované služby nebo značku MineHub.
