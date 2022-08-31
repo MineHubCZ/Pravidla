@@ -228,7 +228,7 @@
     
     74: Hráči je zakázáno umisťovat platební cedulky (@83) tak, že je možné, že je jiný hráč při teleportování na warp neúmyslně zaktivuje.
     
-    80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout (Například vesničan).
+    80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout (např. vesničan).
     
 # Tresty
   § Procesní trestní právo
