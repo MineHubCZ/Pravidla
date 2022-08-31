@@ -141,7 +141,7 @@
     
     34: Hráči je dovoleno na Discordu libovolně reagovat na zprávy ostatních hráčů a zasílat zprávy libovolného obsahu neporušujícího pravidla. Zakázané jsou reakce a zprávy obsahující NSFW obsah. Zprávy v rozporu s pravidly a reakce obsahující NSFW obsah jsou členové a-teamu oprávněni odstraňovat, jiné pouze ve zvláště výjimečném případě.
     
-    36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv či zahlcovat chat ([spamming](https://en.wikipedia.org/wiki/Spamming)).
+    36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv či zahlcovat chat ([spamming](https://cs.wikipedia.org/wiki/Spam)).
 
     46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice.
 
