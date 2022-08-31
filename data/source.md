@@ -66,7 +66,7 @@
   § Ostatní
     20: **Rank**, **balíček** je hodnost, ze které vyplývají oprávnění daného uživatele, případně jeho postavení v rámci a-teamu. Rank je viditelný především na serveru v přehledu aktuálně připojených hráčů (klávesa TAB), v herním chatu, na Discord serveru, na TeamSpeak serveru, webu...
     
-    35: **NFSW**, **NSFW obsah**, tzv. "[not safe for work](https://en.wikipedia.org/wiki/Not_safe_for_work)" obsah je takový, který je nevhodný pro mladistvé, např. zahrnuje nahotu, násilí, pornografický nebo jinak explicitní obsah.
+    35: **NFSW**, **NSFW obsah**, tzv. "[not safe for work](https://cs.wikipedia.org/wiki/Not_safe_for_work)" obsah je takový, který je nevhodný pro mladistvé, např. zahrnuje nahotu, násilí, pornografický nebo jinak explicitní obsah.
     
     79: **AFK** nebo **AFKing** (away from keyboard) je stav, při kterém hráč není aktivně přítomen ve hře.
     
@@ -103,7 +103,7 @@
     
     27: Hráči je povoleno připojovat se pouze přes klienty, které jej nijak nezvýhodňují oproti ostatním. Hráči je zakázáno používat BetterDiscord.
           
-    39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet kompromitaci hesla.
+    39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet ukradení hesla.
     
     52: Hráči není dovoleno pro přístup k službám využívat IP tunelování, VPN, proxy a obdobné nástroje, které by mohly znemožnit identifikaci hráče na základě jeho skutečné IP adresy až na výjimky, které může individuálně udělit a-team (na žádost v ticketu na Discordu).
     
@@ -112,9 +112,9 @@
   § Chování ve hře
     37: Hráči je zakázána krádež nebo pokus o ni.
   
-    30: Hráči je zakázáno poškozovat herní světy serveru (včetně Mineworldu, kde je však dovoleno těžení za účelem zisku surovin). Za poškozování světa je považováno zejména, ale ne výhradně: rozlévání kapalin na povrchu světa; budování staveb, které architektonickohistoricky nezapadají do daného prostředí; stavba sloupů z odpadního materiálu (cobblestone, dirt, sand, ...).
+    30: Hráči je zakázáno poškozovat herní světy serveru (včetně Mineworldu, kde je však dovoleno těžení za účelem zisku surovin). Za poškozování světa je považováno zejména, ale ne výhradně: rozlévání kapalin na povrchu světa; budování staveb, které architektonickohistoricky nezapadají do daného prostředí (1x1 věže atp.); stavba sloupů z odpadního materiálu (cobblestone, dirt, sand, ...).
         
-    63: Ve světě The End je hráči zakázáno poškozovat spawn (prostředí, kam je hráč teleportován po připojení do světa The End).
+    63: Ve světě The End je hráči zakázáno poškozovat spawn v okruhu 15 blocků (prostředí, kam je hráč teleportován po připojení do světa The End).
     
     55: Hráči je zakázáno kopírovat a psát systémové zprávy do chatu nebo se je pokoušet napodobovat. Za systémové zprávy se požadují veškeré zprávy, které neodeslali hráči.
     
@@ -128,7 +128,7 @@
     
     78: Tzv. AFK metody (postupy, které dovolují hráči zůstat po delší dobu připojen k serveru bez aktivního hraní) hráči nejsou zakázány, pokud se nejedná o zneužití bugu (např. držení tlačítka myši a její odpojení od počítače) nebo software/hardware třetí strany (zejména, ale ne výhradně: autoclicker, těžítko na tlačítku myši, přelepení tlačítka myši páskou). V ostatních případech ano. Hráči je AFKing dovolen v rámci aktinvího otevřeného okna Minecraftu.
     
-    104: Hráči je zakázáno stavět či provozovat automatickou farmu (zařízení, které užívá ke sklizni redstone) o šířce nebo hloubce větší než 256 bloků.
+    104: Hráči je zakázáno stavět či provozovat automatickou farmu (zařízení, které užívá ke sklizni redstone) o šířce nebo hloubce větší než 256 bloků. Výškový limit není omezen.
     
     130: Při podezření na nedovolený AFKing (v rozporu s pravidlem @78) je člen a-teamu oprávněn zprávou ověřit, zda hráč toto pravidlo neporušuje. Hráč podezřelý z nedovoleného AFKingu je povinen na tuto zprávu odpovědět do 30 sekund, jinak může být trestán za porušení zmiňovaného pravidla.
     
@@ -141,9 +141,9 @@
     
     34: Hráči je dovoleno na Discordu libovolně reagovat na zprávy ostatních hráčů a zasílat zprávy libovolného obsahu neporušujícího pravidla. Zakázané jsou reakce a zprávy obsahující NSFW obsah. Zprávy v rozporu s pravidly a reakce obsahující NSFW obsah jsou členové a-teamu oprávněni odstraňovat, jiné pouze ve zvláště výjimečném případě.
     
-    36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv ([spamming](https://en.wikipedia.org/wiki/Spamming)).
+    36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv či zahlcovat chat ([spamming](https://en.wikipedia.org/wiki/Spamming)).
 
-    46: Hráči je zakázáno na komunikačních kanálech hovořit o nelegálních drogách.
+    46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice.
 
     75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního nebo romantického vztahu či za účelem získání jeho citlivých údajů.
 
@@ -200,12 +200,10 @@
 # Obchodování
   § Herní automaty
     84: Hráč musí u automatu viditelně uvádět šanci na výhru (nehledě na to jaká tato šance je) na cedulce. Tato cedulka s šancí musí být viditelná pro hráče ze všech stran, kromě strany, kde se vyskytuje redstone (resp. část obvodu, jenž zajišťuje fungování automatu). Taktéž musí být zřejmé, co je výhrou.
-    
-    85: Nejmenší možná šance herního automatu je 1:64. Nižší šance nejsou dovoleny.
-    
+        
     86: Šance musí být zapsaná jako `A:B`, kde `A` je počet výherních polí a `B` je počet polí, kde výhra není. Příklad: Dropper s výhrou v jednom poli a itemem stone v ostatních polích - šance je `1:8`.
     
-    87: U automatu musí být redstone comparator a redstone lampa (v případě, že je lampa viditelná, nemusí být viditelný redstone comparator). Tyto dva bloky slouží k indikaci dostupnosti výhry (musí reflektovat, zda se výhra nachází v automatu a je možné ji získat).
+    87: U automatu musí být redstone comparator nebo redstone lampa (v případě, že je lampa viditelná, nemusí být viditelný redstone comparator). Tyto dva bloky slouží k indikaci dostupnosti výhry (musí reflektovat, zda se výhra nachází v automatu a je možné ji získat).
     
     88: Výhra automatu musí být viditelně zobrazena v nejkratší možné vzdálenosti od automatu, například v item frame nebo na cedulce, nejvýše však 2 bloky od automatu.
     
@@ -230,7 +228,7 @@
     
     74: Hráči je zakázáno umisťovat platební cedulky (@83) tak, že je možné, že je jiný hráč při teleportování na warp neúmyslně zaktivuje.
     
-    80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout.
+    80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout (Například vesničan).
     
 # Tresty
   § Procesní trestní právo
