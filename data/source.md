@@ -93,6 +93,8 @@
     100: Hráči není dovoleno jakýmkoliv způsobem zveřejňovat nebo sdělovat tajné informace týkající se zejména osobních údajů jiných hráčů, připravovaných novinek nebo systémových/bezpečnostních chyb. V případě zjištění takovýchto informací je povinen zachovat mlčenlivost.
     
     125: Hráč, který je subjektem osobních údajů utajovaných dle @100 může jiného hráče zprostit mlčenlivosti.
+
+    138: Hráči je zakázáno vytěžování informací od členů a-teamu, jenž jsou interního charakteru (např. užité fonty na herním serveru, použité pluigny atd.). Pravidlo se nevztahuje na dotazy obecného rázu, jako např. „Máte na serveru vlastní pluginy dělané na míru?“.
     
   § Užívání služeb
     24: Hráči je zakázáno jednat tak, že by mohl poškodit provozovatele, jim poskytované služby nebo značku MineHub.
@@ -101,17 +103,8 @@
       
     26: Hráči je zakázáno obcházet tresty. Za obcházení trestu se považuje takové jednání, které je v rozporu s účelem či výkonem trestu, nebo jej jinak maří (zejména, ale ne výhradně využívání jiného herního účtu /v rozporu s @25/ nebo znemožnění identifikace hráče, např. tunelováním za účelem změny zdrojové IP adresy /v rozporu s @52/).
     
-    27: Hráč má povinnost užívat k přístupu ke službám výhradně oficiálních softwareových klientů bez modifikací až na výjimky:
-      
-      1. Minecraft herní modifikace [OptiFine](https://optifine.net/home),
-      2. Minecraft herní modifikace [ReplayMod](https://www.replaymod.com) po předchozí domluvě s a-teamem,
-      3. Minecraft herní klient [LabyMod](https://www.labymod.net/en),
-      4. Minecraft herní klient [Lunar Client](https://www.lunarclient.com),
-      5. Minecraft herní klient [TLauncher](https://tlauncher.org/),
-      6. Minecraft herní klient [Badlion Client](https://client.badlion.net).
-      
-    Zakázané je zejména užívání klienta BetterDiscord.
-    
+    27: Hráči je povoleno připojovat se pouze přes klienty, které jej nijak nezvýhodňují oproti ostatním. Hráči je zakázáno používat BetterDiscord.
+          
     39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet kompromitaci hesla.
     
     52: Hráči není dovoleno pro přístup k službám využívat IP tunelování, VPN, proxy a obdobné nástroje, které by mohly znemožnit identifikaci hráče na základě jeho skutečné IP adresy až na výjimky, které může individuálně udělit a-team (na žádost v ticketu na Discordu).
