@@ -103,7 +103,7 @@
     
     27: Hráči je povoleno připojovat se pouze přes klienty, které jej nijak nezvýhodňují oproti ostatním. Hráči je zakázáno používat BetterDiscord.
           
-    39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet ukradení hesla.
+    39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet kompromitaci (např. odcizení) hesla.
     
     52: Hráči není dovoleno pro přístup k službám využívat IP tunelování, VPN, proxy a obdobné nástroje, které by mohly znemožnit identifikaci hráče na základě jeho skutečné IP adresy až na výjimky, které může individuálně udělit a-team (na žádost v ticketu na Discordu).
     
