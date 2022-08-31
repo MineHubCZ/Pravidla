@@ -58,9 +58,7 @@
     41: **PvP**, **PvP zóna** je takové nastavení / takové místo, které umožňuje hráčům si vzájemně udělovat poškození / umožňuje hráčům jiného hráče zabít.
     
     42: **Mineworld** je herní svět, který je určen k těžbě materiálů hráči. V nepravidelných intervalech je tento svět resetován.
-    
-    66: **Mystery box** je shulker box, který obsahuje itemy a dá se koupit za určitou cenu. Kupující hráč před zakoupením neví, kterou z výher získá.
-    
+        
     83: **Platební cedulky** jsou ceudlky, které umožňují zaplatit nějakou měnu, konkrétně RedSwitch, QuickShop a ChestShop.
     
     99: **Residence** je nástroj k ochraně majetku a staveb hráče.
