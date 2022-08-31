@@ -112,7 +112,7 @@
   § Chování ve hře
     37: Hráči je zakázána krádež nebo pokus o ni.
   
-    30: Hráči je zakázáno poškozovat herní světy serveru (včetně Mineworldu, kde je však dovoleno těžení za účelem zisku surovin). Za poškozování světa je považováno zejména, ale ne výhradně: rozlévání kapalin na povrchu světa; budování staveb, které architektonickohistoricky nezapadají do daného prostředí (1x1 věže atp.); stavba sloupů z odpadního materiálu (cobblestone, dirt, sand, ...).
+    30: Hráči je zakázáno poškozovat herní světy serveru (včetně Mineworldu, kde je však dovoleno těžení za účelem zisku surovin). Za poškozování světa je považováno zejména, ale ne výhradně: rozlévání kapalin na povrchu světa; budování staveb, které architektonickohistoricky nezapadají do daného prostředí, např. stavba sloupů z odpadního materiálu (cobblestone, dirt, sand, ...).
         
     63: Ve světě The End je hráči zakázáno poškozovat spawn v okruhu 15 blocků (prostředí, kam je hráč teleportován po připojení do světa The End).
     
