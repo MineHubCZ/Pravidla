@@ -101,7 +101,7 @@
       
     26: Hráči je zakázáno obcházet tresty. Za obcházení trestu se považuje takové jednání, které je v rozporu s účelem či výkonem trestu, nebo jej jinak maří (zejména, ale ne výhradně využívání jiného herního účtu /v rozporu s @25/ nebo znemožnění identifikace hráče, např. tunelováním za účelem změny zdrojové IP adresy /v rozporu s @52/).
     
-    27: Hráči je povoleno připojovat se pouze klienty, které jej nijak nezvýhodňují oproti ostatním. Hráči je zakázáno používat BetterDiscord.
+    27: Hráči je povoleno připojovat se pouze přes klienty, které jej nijak nezvýhodňují oproti ostatním. Hráči je zakázáno používat BetterDiscord.
           
     39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet kompromitaci hesla.
     
