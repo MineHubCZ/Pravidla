@@ -63,6 +63,11 @@
 
     99: **Residence** je nástroj k ochraně majetku a staveb hráče.
 
+  § Hráčské zastupitelstvo a volby
+    139: **Hráčské zastupitelstvo**, **zastupitelstvo** je nezávislý orgán tvořený pěti zvolenými hráči.
+
+    144: **(Hráčský) zastupitel**, **člen (hráčského) zastupitelstva** je hráč, který momentálně vykonává funkci v hráčském zastupitelstvu.
+
   § Ostatní
     20: **Rank**, **balíček** je hodnost, ze které vyplývají oprávnění daného uživatele, případně jeho postavení v rámci a-teamu. Rank je viditelný především na serveru v přehledu aktuálně připojených hráčů (klávesa TAB), v herním chatu, na Discord serveru, na TeamSpeak serveru, webu...
 
@@ -273,6 +278,60 @@
     113: Ticket je v případě neaktivity ze strany hráče trvající déle než 3 dny uzavřen.
 
     114: Po uzavření ticketu je hráči do soukromé zprávy botem Echelon (id 714469602633056297) zaslán přepis obsahu ticketu.
+
+# Hráčské zastupitelstvo
+  § Základní informace
+    143: Jeho cílem je zprostředkování spojení mezi a-teamem a hráči, zejména jejich nápadů, postřehů a návrhů k obsahu serveru.
+
+    140: Volební období, tedy doba, po kterou jsou hráči nejvýše ve funkci do dalších voleb, je stanoveno na dva kalendářní měsíce.
+
+    141: O tom, zda a kdy budou vypsány volby rozhodují členové vyššího a-teamu běžným hlasováním.
+
+    142: V závažných případech může vyšší a-team vyloučit člena hráčského zastupitelstva a nebo celé hráčské zastupitelstvo rozpustit. Musí však dojít ke kompletnímu konsenzu vyššího a-teamu a důvod tohoto rozhodnutí musí zveřejnit na Discordu.
+
+    154: Od členů zastupitelstva se očekává maximální iniciativa, připravenost na jednání a také upřímné zastoupení zájmů hráčů.
+
+    159: Každý člen zastupitelstva má právo se účastnit jednání.
+
+    160: V případě, že člen zastupitelstva pro svou funkci získá přístup k informacím interního charakteru, je samozřejmě vázán mlčenlivostí v souladu s @100, a to i poté, co již ve funkci není.
+
+  § Volby
+    145: Informace o volbách a kandidatuře uveřejňuje vyšší a-team primárně na webové stránce https://minehub.cz/page/volby a sekundárně případně i na Discordu.
+
+    146: Hráči kandidují i volí za pomocí webové aplikace {NÁZEV_VOLEBNÍ_APLIKACE} (dále jen „volební systém“).
+
+    147: **Období kandidatury** je určeno vyšším a-teamem. Období kandidatury musí trvat minimálně 3 dny.
+
+    151: V období kandidatury má právo každý hráč, který není zatížený banem a není členem a-teamu, kandidovat. Tím se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
+
+    163: Volič je hráč, který má právo volit. Členové a-teamu nemají právo volit.
+
+    148: Každý volič kandiduje do zastupitelstva individuálně, tedy jako jedinec.
+
+    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 7 dní po posledním dni období kandidatury. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
+
+    150: Každý volič, smí volit právě jednoho zastupitele.
+
+    151: Každý volič má právo volit, a to právě jednou za jedno volební období.
+
+    152: Volba voliče je částečně tajná. Ze systémových důvodů mají přístup k informaci o tom, který volič volil kterého kandidáta členové vyššího a-teamu. Tato informace je však považována za tajnou, nesmí být sdílena, nesmí být proti voliči zneužita, ani volič nemůže být za svou volbu perzekuován.
+
+    153: Každý volič má právo volit a právo nevolit.
+
+    161: Hráčům je přísně zakázáno nabízet cokoliv výměnou za hlas pro určitého kandidáta (zejména, ale ne výhradně: HubCoiny, dollary, itemy, peníze), tedy kupčení s hlasy. Taktéž je přísně zakázáno voličům vyhrožovat pro případ, že by pro daného kandidáta volili nebo nevolili.
+
+    162: Voličům je přísně zakázáno přijmout cokoliv výměnou za hlas pro určitého kandidáta nebo nevolení jej.
+
+  § Jednání zastupitelstva
+    155: Jednání zastupitelstva je vedeno veřejně na Discordu.
+
+    159: Jednání se aktivně účastní hráčští zastupitelé a členové a-teamu. Ostatní hráči mají právo být přítomni a naslouchat, ale nemají nijak garantované právo v kanále hovořit. Právo jim však může být uděleno ze strany jednatelů.
+
+    156: Jednání lze přerušit zejména, ale ne výhradně pro poradu přítomné části a-teamu za účelem probrání neveřejných záležitostí (např. chráněných @100).
+
+    157: Jednání jsou ohlašovány předem na Discordu a webové stránce https://minehub.cz/page/hracske-zastupitelstvo.
+
+    158: Z každého jednání je pořízen textový záznam (minimálně v rozsahu docházky, probíraných bodů a stanovisek účastníků jednání). Zapisovatel se určí přítomnými členy a-teamu na začátku jendání. Tento záznam je pak zveřejněn na webové stránce https://minehub.cz/page/hracske-zastupitelstvo nebo pod odkazem nacházejícím se na této stránce.
 
 # Závěr
   § Dodatky
