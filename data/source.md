@@ -298,7 +298,7 @@
   § Volby
     145: Informace o volbách a kandidatuře uveřejňuje vyšší a-team primárně na webové stránce https://minehub.cz/page/volby a sekundárně případně i na Discordu.
 
-    146: Hráči kandidují i volí za pomocí webové aplikace {NÁZEV_VOLEBNÍ_APLIKACE} (dále jen „volební systém“).
+    146: Hráči kandidují i volí za pomocí webové aplikace https://voting.minehub.cz (dále jen „volební systém“).
 
     147: **Období kandidatury** je určeno vyšším a-teamem. Období kandidatury musí trvat minimálně 3 dny.
 
