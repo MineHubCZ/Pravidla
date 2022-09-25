@@ -302,9 +302,9 @@
 
     147: **Období kandidatury** je určeno vyšším a-teamem. Období kandidatury musí trvat minimálně 3 dny.
 
-    151: V období kandidatury má právo každý hráč, který není zatížený banem a není členem a-teamu, kandidovat. Tím se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
+    151: V období kandidatury má právo kadndidovat každý hráč, který není zatížený banem, není členem a-teamu a má na serveru odehráno více než 168 hodin. Tím se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
 
-    163: Volič je hráč, který má právo volit. Členové a-teamu nemají právo volit.
+    163: Volič je hráč, který má právo volit. Členové a-teamu nemají právo volit. Hráč musí mít na serveru odehráno alespoň 24 hodin, aby měl právo volit.
 
     148: Každý volič kandiduje do zastupitelstva individuálně, tedy jako jedinec.
 
