@@ -308,7 +308,7 @@
 
     148: Každý volič kandiduje do zastupitelstva individuálně, tedy jako jedinec.
 
-    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 7 dní po posledním dni období kandidatury. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
+    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 4 dny po posledním dni období kandidatury. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
 
     150: Každý volič, smí volit právě jednoho zastupitele.
 
