@@ -302,13 +302,13 @@
 
     147: **Období kandidatury** je určeno vyšším a-teamem. Období kandidatury musí trvat minimálně 3 dny.
 
-    151: V období kandidatury má právo kadndidovat každý hráč, který není zatížený banem, není členem a-teamu a má na serveru odehráno více než 168 hodin. Tím se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
+    151: V období kandidatury má právo kadndidovat každý hráč, který není zatížený banem, nemá na Discordu roli InfoChannelOnly, není členem a-teamu a má na serveru odehráno více než 168 hodin. Tím se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
 
     163: Volič je hráč, který má právo volit. Členové a-teamu nemají právo volit. Hráč musí mít na serveru odehráno alespoň 24 hodin, aby měl právo volit.
 
     148: Každý volič kandiduje do zastupitelstva individuálně, tedy jako jedinec.
 
-    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 7 dní po posledním dni období kandidatury. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
+    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 4 dny po posledním dni období kandidatury. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
 
     150: Každý volič, smí volit právě jednoho zastupitele.
 
