@@ -148,7 +148,7 @@
 
     36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv či zahlcovat chat ([spamming](https://cs.wikipedia.org/wiki/Spam)).
 
-    46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice.
+    46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice v mezích určených zákonem. Zakázáno je tak např. komunikovat o tom, kde lze drogy koupit nebo dokonce domlouvat obchody. Oproti tomu např. pojmenování herního itemu podle drogy toto pravidlo nezakazuje.
 
     75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního nebo romantického vztahu či za účelem získání jeho citlivých údajů.
 
