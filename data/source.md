@@ -235,6 +235,8 @@
 
     80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout (např. vesničan).
 
+    164: Člen admin-teamu nemůže hráči potvrdit korektnost obchodu, kasina nebo herního automatu cedulkou, knížkou, ani žádným obdobným prostředkem.
+
 # Tresty
   § Procesní trestní právo
     117: Každý trest musí být následkem porušení pravidel a důvod trestu musí být zřetelný a objektivně obhájitelný.
