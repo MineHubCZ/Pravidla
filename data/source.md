@@ -59,7 +59,7 @@
 
     42: **Mineworld** je herní svět, který je určen k těžbě materiálů hráči. V nepravidelných intervalech je tento svět resetován.
 
-    83: **Platební cedulky** jsou ceudlky, které umožňují zaplatit nějakou měnu, konkrétně RedSwitch, QuickShop a ChestShop.
+    83: **Platební cedulky** jsou cedulky, které umožňují zaplatit nějakou měnu, konkrétně RedSwitch, QuickShop a ChestShop.
 
     99: **Residence** je nástroj k ochraně majetku a staveb hráče.
 
@@ -131,7 +131,7 @@
 
     70: Hráči je zakázáno nabádat hráče k posílání peněz pomocí příkazu `/pay <nick> <částka> -confirmed` (klasifikováno jako @38).
 
-    78: Tzv. AFK metody (postupy, které dovolují hráči zůstat po delší dobu připojen k serveru bez aktivního hraní) hráči nejsou zakázány, pokud se nejedná o zneužití bugu (např. držení tlačítka myši a její odpojení od počítače) nebo software/hardware třetí strany (zejména, ale ne výhradně: autoclicker, těžítko na tlačítku myši, přelepení tlačítka myši páskou). V ostatních případech ano. Hráči je AFKing dovolen v rámci aktinvího otevřeného okna Minecraftu.
+    78: Tzv. AFK metody (postupy, které dovolují hráči zůstat po delší dobu připojen k serveru bez aktivního hraní) hráči nejsou zakázány, pokud se nejedná o zneužití bugu (např. držení tlačítka myši a její odpojení od počítače) nebo software/hardware třetí strany (zejména, ale ne výhradně: autoclicker, těžítko na tlačítku myši, přelepení tlačítka myši páskou). V ostatních případech ano. Hráči je AFKing dovolen v rámci aktivního otevřeného okna Minecraftu.
 
     104: Hráči je zakázáno stavět či provozovat automatickou farmu (zařízení, které užívá ke sklizni redstone) o šířce nebo hloubce větší než 256 bloků. Výškový limit není omezen.
 
