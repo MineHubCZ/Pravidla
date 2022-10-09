@@ -58,16 +58,16 @@
         },
         {
             "name": "lemon_framework/lemon",
-            "version": "3.0.1",
+            "version": "3.6.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Lemon-Framework/Lemon.git",
-                "reference": "bf48ae16e600c824aa6a9b31145c73324b75700b"
+                "reference": "c85e27b70273339125ce2246e8bcccb891faec02"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Lemon-Framework/Lemon/zipball/bf48ae16e600c824aa6a9b31145c73324b75700b",
-                "reference": "bf48ae16e600c824aa6a9b31145c73324b75700b",
+                "url": "https://api.github.com/repos/Lemon-Framework/Lemon/zipball/c85e27b70273339125ce2246e8bcccb891faec02",
+                "reference": "c85e27b70273339125ce2246e8bcccb891faec02",
                 "shasum": ""
             },
             "require": {
@@ -77,8 +77,8 @@
                 "psr/simple-cache": "^3.0"
             },
             "require-dev": {
-                "bmitch/churn-php": "^1.6",
                 "friendsofphp/php-cs-fixer": "^3.6",
+                "mockery/mockery": "^1.5",
                 "phpstan/phpstan": "^1.4",
                 "phpunit/phpunit": "^9"
             },
@@ -97,16 +97,16 @@
             ],
             "authors": [
                 {
-                    "name": "TENMAJKL",
-                    "email": "tenmajkl@liskyjidlokod.fun"
+                    "name": "Majkel",
+                    "email": "tenmajkl@proton.me"
                 }
             ],
-            "description": "Dead simple microframework allowing you to squeeze the most out of your code",
+            "description": "A php microframework",
             "support": {
                 "issues": "https://github.com/Lemon-Framework/Lemon/issues",
-                "source": "https://github.com/Lemon-Framework/Lemon/tree/3.0.1"
+                "source": "https://github.com/Lemon-Framework/Lemon/tree/3.6.6"
             },
-            "time": "2022-08-04T12:01:15+00:00"
+            "time": "2022-10-06T16:22:32+00:00"
         },
         {
             "name": "psr/container",
