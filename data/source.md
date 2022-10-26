@@ -139,6 +139,8 @@
 
     131: Hráči je zakázáno kazit ostatním hráčům parkour na survival spawnu prutováním nebo obdobnými metodami.
 
+    165: Hráči je zakázáno používat autoclicker, nebo obdobné prostředky, které by mohly být považovány za ekvivalentní autoclickeru (např. bindování akce kliknutí levým myši v Minecraftu na jiný vstup, než je levé tlačítko myši).
+
   § Komunikace
     28: Hráč je povinen se na komunikačních kanálech služeb vyjadřovat slušně a zdržet se projevů nenávisti (rasismus, homofobie, transfobie aj.) a propagace nenávistných ideologií (nacismus, fašismus aj.). Je zakázáno vulgární chování vůči ostatním hráčům.
 
