@@ -299,6 +299,10 @@
 
     160: V případě, že člen zastupitelstva pro svou funkci získá přístup k informacím interního charakteru, je samozřejmě vázán mlčenlivostí v souladu s @100, a to i poté, co již ve funkci není.
 
+    166: Pokud se v průbehu voleb nebo v rámci volebního období zastupitel stane členem a-teamu, bude z pozice člena zastupitelstva vyloučen pro nemožnost plnit roli zastupitele hráčů.
+
+    167: Zastupitel má možnost z role hráčského zastupitele svévolně odstoupit. V případě, že se k tomu rozhodne, musí tak učinit v Discord kanále vyhrazeném hráčskému zastupitelstvu, aby byli informování ostatní zastupitelé i členové a-teamu.
+
   § Volby
     145: Informace o volbách a kandidatuře uveřejňuje vyšší a-team primárně na webové stránce https://minehub.cz/page/volby a sekundárně případně i na Discordu.
 
