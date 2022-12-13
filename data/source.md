@@ -64,7 +64,7 @@
     99: **Residence** je nástroj k ochraně majetku a staveb hráče.
 
   § Hráčské zastupitelstvo a volby
-    139: **Hráčské zastupitelstvo**, **zastupitelstvo** je nezávislý orgán tvořený pěti zvolenými hráči.
+    139: **Hráčské zastupitelstvo**, **zastupitelstvo** je nezávislý orgán tvořený až třemi zvolenými hráči.
 
     144: **(Hráčský) zastupitel**, **člen (hráčského) zastupitelstva** je hráč, který momentálně vykonává funkci v hráčském zastupitelstvu.
 
@@ -148,7 +148,7 @@
 
     34: Hráči je dovoleno na Discordu libovolně reagovat na zprávy ostatních hráčů a zasílat zprávy libovolného obsahu neporušujícího pravidla. Zakázané jsou reakce a zprávy obsahující NSFW obsah. Zprávy v rozporu s pravidly a reakce obsahující NSFW obsah jsou členové a-teamu oprávněni odstraňovat, jiné pouze ve zvláště výjimečném případě.
 
-    36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv či zahlcovat chat ([spamming](https://cs.wikipedia.org/wiki/Spam)).
+    36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv či zahlcovat chat ([spamming](https://cs.wikipedia.org/wiki/Spam)). Pod zahlcování chatu také spadá přidávání reakcí na velké množství zpráv (zejméně, ale ne výhradně konsekutivních v rámci jednoho kanálu) bez zřejmého smyslu, resp. za účelem znepřehlednění obsahu kanálu.
 
     46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice v mezích určených zákonem. Zakázáno je tak např. komunikovat o tom, kde lze drogy koupit nebo dokonce domlouvat obchody. Oproti tomu např. pojmenování herního itemu podle drogy toto pravidlo nezakazuje.
 
@@ -310,13 +310,13 @@
 
     147: **Období kandidatury** je určeno vyšším a-teamem. Období kandidatury musí trvat minimálně 3 dny.
 
-    151: V období kandidatury má právo kadndidovat každý hráč, který není zatížený banem, nemá na Discordu roli InfoChannelOnly, není členem a-teamu a má na serveru odehráno více než 168 hodin. Tím se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
+    151: V období kandidatury má právo kadndidovat každý hráč, který není zatížený banem, nemá na Discordu roli InfoChannelOnly, není členem a-teamu (ani na jiném serveru), má na serveru odehráno více než 168 hodin a u kterého je vyloučeno, že by mohlo dojít ke střetu zájmů. Kandidaturou se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
 
     163: Volič je hráč, který má právo volit. Členové a-teamu nemají právo volit. Hráč musí mít na serveru odehráno alespoň 24 hodin, aby měl právo volit.
 
     148: Každý volič kandiduje do zastupitelstva individuálně, tedy jako jedinec.
 
-    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 4 dny po posledním dni období kandidatury. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
+    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 4 dny po posledním dni období kandidatury. Výjimku z této lhůty tvoří @168. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
 
     150: Každý volič, smí volit právě jednoho zastupitele.
 
@@ -329,6 +329,8 @@
     161: Hráčům je přísně zakázáno nabízet cokoliv výměnou za hlas pro určitého kandidáta (zejména, ale ne výhradně: HubCoiny, dollary, itemy, peníze), tedy kupčení s hlasy. Taktéž je přísně zakázáno voličům vyhrožovat pro případ, že by pro daného kandidáta volili nebo nevolili.
 
     162: Voličům je přísně zakázáno přijmout cokoliv výměnou za hlas pro určitého kandidáta nebo nevolení jej.
+
+    168: V případě, že je výsledek voleb nerozhodný, proběhne druhé kolo hlasování bez období kandidatury, přičemž období voleb může být vyhlášeno po kratší lhůtě než stanovené v @149.
 
   § Jednání zastupitelstva
     155: Jednání zastupitelstva je vedeno veřejně na Discordu.
