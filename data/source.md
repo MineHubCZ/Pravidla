@@ -316,7 +316,7 @@
 
     148: Každý volič kandiduje do zastupitelstva individuálně, tedy jako jedinec.
 
-    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 4 dny po posledním dni období kandidatury. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
+    149: **Období voleb** je určeno vyšším a-teamem. Smí následnovat nejdříve za 4 dny po posledním dni období kandidatury. Výjimku z této lhůty tvoří @168. Obodbí voleb lze v závažných případech případně měnit i po jeho vyhlášení. O tomto rozhoduje vyšší a-team.
 
     150: Každý volič, smí volit právě jednoho zastupitele.
 
@@ -329,6 +329,8 @@
     161: Hráčům je přísně zakázáno nabízet cokoliv výměnou za hlas pro určitého kandidáta (zejména, ale ne výhradně: HubCoiny, dollary, itemy, peníze), tedy kupčení s hlasy. Taktéž je přísně zakázáno voličům vyhrožovat pro případ, že by pro daného kandidáta volili nebo nevolili.
 
     162: Voličům je přísně zakázáno přijmout cokoliv výměnou za hlas pro určitého kandidáta nebo nevolení jej.
+
+    168: V případě, že je výsledek voleb nerozhodný, proběhne druhé kolo hlasování bez období kandidatury, přičemž období voleb může být vyhlášeno po kratší lhůtě než stanovené v @149.
 
   § Jednání zastupitelstva
     155: Jednání zastupitelstva je vedeno veřejně na Discordu.
