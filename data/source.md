@@ -310,7 +310,7 @@
 
     147: **Období kandidatury** je určeno vyšším a-teamem. Období kandidatury musí trvat minimálně 3 dny.
 
-    151: V období kandidatury má právo kadndidovat každý hráč, který není zatížený banem, nemá na Discordu roli InfoChannelOnly, není členem a-teamu a má na serveru odehráno více než 168 hodin. Tím se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
+    151: V období kandidatury má právo kadndidovat každý hráč, který není zatížený banem, nemá na Discordu roli InfoChannelOnly, není členem a-teamu (ani na jiném serveru), má na serveru odehráno více než 168 hodin a u kterého je vyloučeno, že by mohlo dojít ke střetu zájmů. Kandidaturou se rozumí zapsat se ve volební systému jakožto kandidát ve zvoleném volebním období.
 
     163: Volič je hráč, který má právo volit. Členové a-teamu nemají právo volit. Hráč musí mít na serveru odehráno alespoň 24 hodin, aby měl právo volit.
 
