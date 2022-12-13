@@ -64,7 +64,7 @@
     99: **Residence** je nástroj k ochraně majetku a staveb hráče.
 
   § Hráčské zastupitelstvo a volby
-    139: **Hráčské zastupitelstvo**, **zastupitelstvo** je nezávislý orgán tvořený pěti zvolenými hráči.
+    139: **Hráčské zastupitelstvo**, **zastupitelstvo** je nezávislý orgán tvořený až třemi zvolenými hráči.
 
     144: **(Hráčský) zastupitel**, **člen (hráčského) zastupitelstva** je hráč, který momentálně vykonává funkci v hráčském zastupitelstvu.
 
