@@ -148,7 +148,9 @@
 
     34: Hráči je dovoleno na Discordu libovolně reagovat na zprávy ostatních hráčů a zasílat zprávy libovolného obsahu neporušujícího pravidla. Zakázané jsou reakce a zprávy obsahující NSFW obsah. Zprávy v rozporu s pravidly a reakce obsahující NSFW obsah jsou členové a-teamu oprávněni odstraňovat, jiné pouze ve zvláště výjimečném případě.
 
-    36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv či zahlcovat chat ([spamming](https://cs.wikipedia.org/wiki/Spam)). Pod zahlcování chatu také spadá přidávání reakcí na velké množství zpráv (zejméně, ale ne výhradně konsekutivních v rámci jednoho kanálu) bez zřejmého smyslu, resp. za účelem znepřehlednění obsahu kanálu.
+    36: Hráči je zakázáno nepřiměřeně frekventované zasílání zpráv či zahlcovat chat ([spamming](https://cs.wikipedia.org/wiki/Spam), [flooding](https://cs.wikipedia.org/wiki/Flooding)).
+
+    169: Pod zahlcování chatu také spadá přidávání reakcí na velké množství zpráv (zejméně, ale ne výhradně konsekutivních v rámci jednoho kanálu) za účelem ztížení čitelnosti obsahu kanálu. Hráč bude před udělením případného trestu varován a vyzván k objasnění situace.
 
     46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice v mezích určených zákonem. Zakázáno je tak např. komunikovat o tom, kde lze drogy koupit nebo dokonce domlouvat obchody. Oproti tomu např. pojmenování herního itemu podle drogy toto pravidlo nezakazuje.
 
