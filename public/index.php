@@ -7,6 +7,8 @@ require __DIR__.'/../vendor/autoload.php';
 
 $app = Application::init(__DIR__);
 
+config('debug.debug', true);
+
 $app->get('templating');
 
 /** @var \Lemon\Templating\Enviroment $env */
@@ -24,7 +26,13 @@ $env->macro('markdown', function(string $text) {
     return $result;
 });
 
-Route::get('/', function(Application $app) {
+$april_fools = (new DateTime('now'))->format('d/m') == '01/04';
+
+if ($april_fools) {
+    Route::template('/', 'april');
+}
+
+Route::get($april_fools ? 'april' : '/', function(Application $app) {
  
     $metadata = file_get_contents($app->file('data.metadata', 'json'));
     $metadata = json_decode($metadata);
@@ -36,7 +44,7 @@ Route::get('/', function(Application $app) {
     $content = file_get_contents($app->file('data.compiled', 'md'));
 
     return template('home', ...compact('metadata', 'last_edit_year', 'last_edit_formatted', 'content'));
-});
+});   
 
 Route::template('about', 'about');
 
