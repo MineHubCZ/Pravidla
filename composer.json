@@ -1,6 +1,6 @@
 {
     "require": {
-        "lemon_framework/lemon": "^3.0.1",
+        "lemon_framework/lemon": "^3.13",
         "erusev/parsedown": "^1.7"
     }
 }
