@@ -158,6 +158,8 @@
 
     103: Text bossbar reklamy nesmí obsahovat vulgarismy.
 
+    170: Hráčům je zakázáno propagovat politické strany nebo politické kandidáty. Výjimku tvoří předvolební debaty, během kterých uživatelé mohou diskutovat o politických otázkách, stranách a kandidátech, ale výhradně v souladu s § 10 odst. 1 a současně tímto jednáním nesmí ovlivňovat ty hráče, kteří se diskuze neúčastní.
+
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
 
