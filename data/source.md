@@ -131,11 +131,11 @@
 
     70: Hráči je zakázáno nabádat hráče k posílání peněz pomocí příkazu `/pay <nick> <částka> -confirmed` (klasifikováno jako @38).
 
-    78: Tzv. AFK metody (postupy, které dovolují hráči zůstat po delší dobu připojen k serveru bez aktivního hraní) hráči nejsou zakázány, pokud se nejedná o zneužití bugu (např. držení tlačítka myši a její odpojení od počítače) nebo software/hardware třetí strany (zejména, ale ne výhradně: autoclicker, těžítko na tlačítku myši, přelepení tlačítka myši páskou). V ostatních případech ano. Hráči je AFKing dovolen v rámci aktivního otevřeného okna Minecraftu.
+    78: Tzv. AFK metody (postupy, které dovolují hráči zůstat po delší dobu připojen k serveru bez aktivního hraní) hráči nejsou zakázány, pokud se nejedná o zneužití bugu (zejména, ale ne výhradně: držení tlačítka myši a její odpojení od počítače, držení tlačítka myši a stisk `F3 + T` a další obdobné triky) nebo software/hardware (zejména, ale ne výhradně: autoclicker, těžítko na tlačítku myši, přelepení tlačítka myši páskou). V ostatních případech ano. Hráči je AFKing dovolen v rámci aktivního otevřeného okna Minecraftu.
 
     104: Hráči je zakázáno stavět či provozovat automatickou farmu (zařízení, které užívá ke sklizni redstone) o šířce nebo hloubce větší než 256 bloků. Výškový limit není omezen.
 
-    130: Při podezření na nedovolený AFKing (v rozporu s pravidlem @78) je člen a-teamu oprávněn zprávou ověřit, zda hráč toto pravidlo neporušuje. Hráč podezřelý z nedovoleného AFKingu je povinen na tuto zprávu odpovědět do 30 sekund, jinak může být trestán za porušení zmiňovaného pravidla.
+    130: Při podezření na nedovolený AFKing (v rozporu s pravidlem @78) je člen a-teamu oprávněn zprávou ověřit, zda je hráč přítomen a schopen způsobile odpovědět (tedy se nedopouští nedovoleného AFKingu). Hráč podezřelý z nedovoleného AFKingu je povinen na tuto zprávu odpovědět do 30 sekund, jinak může být trestán za porušení zmiňovaného pravidla.
 
     131: Hráči je zakázáno kazit ostatním hráčům parkour na survival spawnu prutováním nebo obdobnými metodami.
 
