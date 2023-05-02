@@ -163,7 +163,7 @@
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
 
-    57: Pokud se k hráči (nebo poblíž něj) teleportuje druhý hráč, je oběma hráčům zakázáno na sebe zaútočit nebo se pokusit jeden druhého či vzájemně zabít po dobu ~20 sekund.
+    57: Pokud se k hráči (nebo poblíž něj) teleportuje druhý hráč, je oběma hráčům zakázáno na sebe zaútočit nebo se pokusit jeden druhého či vzájemně zabít po dobu ~20 sekund. Taktéž teleportace hráče nebo k hráči za účelem zabití jej je považováno za tpakill.
 
     126: Zabití za nedodržení pravidla @57 se považuje za tzv. tpakill a je trestné.
 
