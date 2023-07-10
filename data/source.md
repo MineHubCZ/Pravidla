@@ -243,6 +243,8 @@
 
     164: Člen admin-teamu nemůže hráči potvrdit korektnost obchodu, kasina nebo herního automatu cedulkou, knížkou, ani žádným obdobným prostředkem.
 
+    171: Každá provozovna hráčského obchodu musí mít zakázané PvP.
+
 # Tresty
   § Procesní trestní právo
     117: Každý trest musí být následkem porušení pravidel a důvod trestu musí být zřetelný a objektivně obhájitelný.
