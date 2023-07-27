@@ -77,7 +77,7 @@
 
     82: Jako **automat** nebo **herní automat** se považuje takové zařízení, do kterého musí hráč vsadit předmět nebo měnu (dolary, HubCoiny, SuperKlíče...) za pomocí platebních cedulek (@83) s tím, že se mu vklad nemusí vrátit, či může vrátit s vyšší hodnotou, než je hodnota původního vkladu.
 
-    174: **Bezpodmínečná výzva** je institut, který umožňuje členovi a-teamu hráči udělit příkaz, u kterého je nutné, aby neprodleně nabyl účinnosti. Takováto výzva vždy musí začínat „Vyzívám tě“ nebo „{oslovení}, vyzívám tě“, přičemž následuje příkaz. Rozsah účinnosti bezpodmínečné výzvy se vztahuje jen na služby MineHubu. Viz také @175 a @176.
+    174: **Bezpodmínečná výzva** je institut, který umožňuje členovi a-teamu hráči udělit příkaz, u kterého je nutné, aby neprodleně nabyl účinnosti. Takováto výzva vždy musí začínat „Vyzývám tě“ nebo „{oslovení}, vyzývám tě“, přičemž následuje příkaz. Rozsah účinnosti bezpodmínečné výzvy se vztahuje jen na služby MineHubu. Viz také @175 a @176.
 
 # Hráči a služby
   § Práva, povinnosti a omezení hráčů
