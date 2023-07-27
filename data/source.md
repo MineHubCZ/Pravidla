@@ -77,6 +77,8 @@
 
     82: Jako **automat** nebo **herní automat** se považuje takové zařízení, do kterého musí hráč vsadit předmět nebo měnu (dolary, HubCoiny, SuperKlíče...) za pomocí platebních cedulek (@83) s tím, že se mu vklad nemusí vrátit, či může vrátit s vyšší hodnotou, než je hodnota původního vkladu.
 
+    174: **Bezpodmínečná výzva** je institut, který umožňuje členovi a-teamu hráči udělit příkaz, u kterého je nutné, aby neprodleně nabyl účinnosti. Takováto výzva vždy musí začínat „Vyzívám tě“ nebo „{oslovení}, vyzívám tě“, přičemž následuje příkaz. Rozsah účinnosti bezpodmínečné výzvy se vztahuje jen na služby MineHubu. Viz také @175 a @176.
+
 # Hráči a služby
   § Práva, povinnosti a omezení hráčů
     21: V souladu se zásadou [legální licence](https://cs.wikipedia.org/wiki/Legální_licence) hráč může beztrestně činit vše, co není pravidly zakázáno. Výjimkou je jednání [in fraudem legis](https://cs.wikipedia.org/wiki/Obcházení_zákona). Hráč je povinen jednat výhradně v souladu s pravidly.
@@ -98,6 +100,10 @@
     125: Hráč, který je subjektem osobních údajů utajovaných dle @100 může jiného hráče zprostit mlčenlivosti.
 
     138: Hráči je zakázáno vytěžování informací od členů a-teamu, jenž jsou interního charakteru (např. užité fonty na herním serveru, použité pluigny atd.). Pravidlo se nevztahuje na dotazy obecného rázu, jako např. „Máte na serveru vlastní pluginy dělané na míru?“.
+
+    175: Pokud člen a-teamu hráči podá bezpodmínečnou výzvu (@174), je hráč povinen se neprodleně výzvě podrobit a příkaz uposlechnout.
+
+    176: Pokud se hráč, kterému byla podána bezpodmínečná výzva (@174) domnívá, že tato výzva byla v rozporu s Pravidly a jejich výkladem a nebo že nechránila oprávněný zájem provozovatele nebo a-teamu, má právo **zpětně** právoplatnost této výzvy rozporovat v ticketu s vedením, typ „Stížnost na člena admin týmu“. V případě neprokázání náležitého účelu dané výzvy členem a-teamu, který ji uvalil, bude tento člen a-teamu trestán a případně dle uvážení vyššího a-teamu bude dotčený hráč kompenzován.
 
   § Užívání služeb
     24: Hráči je zakázáno jednat tak, že by mohl poškodit provozovatele, jim poskytované služby nebo značku MineHub.
