@@ -77,6 +77,8 @@
 
     82: Jako **automat** nebo **herní automat** se považuje takové zařízení, do kterého musí hráč vsadit předmět nebo měnu (dolary, HubCoiny, SuperKlíče...) za pomocí platebních cedulek (@83) s tím, že se mu vklad nemusí vrátit, či může vrátit s vyšší hodnotou, než je hodnota původního vkladu.
 
+    174: **Bezpodmínečná výzva** je institut, který umožňuje členovi a-teamu hráči udělit příkaz, u kterého je nutné, aby neprodleně nabyl účinnosti. Takováto výzva vždy musí začínat „Vyzývám tě“ nebo „{oslovení}, vyzývám tě“, přičemž následuje příkaz. Rozsah účinnosti bezpodmínečné výzvy se vztahuje jen na služby MineHubu. Viz také @175 a @176.
+
 # Hráči a služby
   § Práva, povinnosti a omezení hráčů
     21: V souladu se zásadou [legální licence](https://cs.wikipedia.org/wiki/Legální_licence) hráč může beztrestně činit vše, co není pravidly zakázáno. Výjimkou je jednání [in fraudem legis](https://cs.wikipedia.org/wiki/Obcházení_zákona). Hráč je povinen jednat výhradně v souladu s pravidly.
@@ -98,6 +100,10 @@
     125: Hráč, který je subjektem osobních údajů utajovaných dle @100 může jiného hráče zprostit mlčenlivosti.
 
     138: Hráči je zakázáno vytěžování informací od členů a-teamu, jenž jsou interního charakteru (např. užité fonty na herním serveru, použité pluigny atd.). Pravidlo se nevztahuje na dotazy obecného rázu, jako např. „Máte na serveru vlastní pluginy dělané na míru?“.
+
+    175: Pokud člen a-teamu hráči podá bezpodmínečnou výzvu (@174), je hráč povinen se neprodleně výzvě podrobit a příkaz uposlechnout.
+
+    176: Pokud se hráč, kterému byla podána bezpodmínečná výzva (@174) domnívá, že tato výzva byla v rozporu s Pravidly a jejich výkladem a nebo že nechránila oprávněný zájem provozovatele nebo a-teamu, má právo **zpětně** právoplatnost této výzvy rozporovat v ticketu s vedením, typ „Stížnost na člena admin týmu“. V případě neprokázání náležitého účelu dané výzvy členem a-teamu, který ji uvalil, bude tento člen a-teamu trestán a případně dle uvážení vyššího a-teamu bude dotčený hráč kompenzován.
 
   § Užívání služeb
     24: Hráči je zakázáno jednat tak, že by mohl poškodit provozovatele, jim poskytované služby nebo značku MineHub.
@@ -137,7 +143,7 @@
 
     130: Při podezření na nedovolený AFKing (v rozporu s pravidlem @78) je člen a-teamu oprávněn zprávou ověřit, zda je hráč přítomen a schopen způsobile odpovědět (tedy se nedopouští nedovoleného AFKingu). Hráč podezřelý z nedovoleného AFKingu je povinen na tuto zprávu odpovědět do 30 sekund, jinak může být trestán za porušení zmiňovaného pravidla.
 
-    131: Hráči je zakázáno kazit ostatním hráčům parkour na survival spawnu prutováním nebo obdobnými metodami.
+    131: Hráči je zakázáno na spawnu prutování. Současně je zakázáno používat jej nebo obdobné prostředky ke kažení parkouru.
 
     165: Hráči je zakázáno používat autoclicker, nebo obdobné prostředky, které by mohly být považovány za ekvivalentní autoclickeru (např. bindování akce kliknutí levým myši v Minecraftu na jiný vstup, než je levé tlačítko myši).
 
@@ -157,8 +163,10 @@
     75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního nebo romantického vztahu či za účelem získání jeho citlivých údajů.
 
     103: Text bossbar reklamy nesmí obsahovat vulgarismy.
-
+    
     170: Hráčům je zakázáno propagovat politické strany nebo politické kandidáty. Výjimku tvoří předvolební debaty, během kterých uživatelé mohou diskutovat o politických otázkách, stranách a kandidátech, ale výhradně v souladu s § 10 odst. 1 a současně tímto jednáním nesmí ovlivňovat ty hráče, kteří se diskuze neúčastní.
+
+    172: Za reklamu ve smyslu @29 je považována také jakákoliv propagace Discord serveru, který není z tohoto omezení vyloučen výjimkou udělenou vyšším a-teamem. Seznam takovýchto serverů je k nalezení na MineHub.cz Discord serveru v kanále #pravidla (id: 673444062757388301).
 
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
@@ -196,6 +204,8 @@
     71: Vesničani v residenci patří majiteli residence.
 
     72: Jeden hráč může vlastnit nejvýše čtyři vesničany v rámci celého serveru.
+
+    173: V případě vykázání hráče z residence jejím majitelem je hráč povinen residenci neprodleně opustit a současně se zdržet jakýchkoliv pokusů o opětovný návrat do dané residence.
 
   § Warpy
     44: Hráči je zakázáno vytvářet warpy se jménem jiného hráče, pokud s tím tento hráč nesouhlasí.
