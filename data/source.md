@@ -199,6 +199,8 @@
 
     72: Jeden hráč může vlastnit nejvýše čtyři vesničany v rámci celého serveru.
 
+    173: V případě vykázání hráče z residence jejím majitelem je hráč povinen residenci neprodleně opustit a současně se zdržet jakýchkoliv pokusů o opětovný návrat do dané residence.
+
   § Warpy
     44: Hráči je zakázáno vytvářet warpy se jménem jiného hráče, pokud s tím tento hráč nesouhlasí.
 
