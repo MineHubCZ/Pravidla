@@ -163,10 +163,10 @@
     75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního nebo romantického vztahu či za účelem získání jeho citlivých údajů.
 
     103: Text bossbar reklamy nesmí obsahovat vulgarismy.
-    
-    170: Hráčům je zakázáno propagovat politické strany nebo politické kandidáty. Výjimku tvoří předvolební debaty, během kterých uživatelé mohou diskutovat o politických otázkách, stranách a kandidátech, ale výhradně v souladu s § 10 odst. 1 a současně tímto jednáním nesmí ovlivňovat ty hráče, kteří se diskuze neúčastní.
 
-    172: Za reklamu ve smyslu @29 je považována také jakákoliv propagace Discord serveru, který není z tohoto omezení vyloučen výjimkou udělenou vyšším a-teamem. Seznam takovýchto serverů je k nalezení na MineHub.cz Discord serveru v kanále #pravidla (id: 673444062757388301).
+    170: Hráčům je zakázáno propagovat politické strany nebo politické kandidáty. Výjimku tvoří předvolební debaty, během kterých uživatelé mohou diskutovat o politických otázkách, stranách a kandidátech, ale výhradně v souladu s @28 a současně tímto jednáním nesmí ovlivňovat ty hráče, kteří se diskuze neúčastní.
+
+    172: Za reklamu ve smyslu @29 je považována také jakákoliv propagace Discord serveru, který není z tohoto omezení vyloučen výjimkou udělenou vyšším a-teamem. Seznam takovýchto serverů je k nalezení na MineHub.cz Discord serveru v kanále \#pravidla (id: 673444062757388301).
 
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
