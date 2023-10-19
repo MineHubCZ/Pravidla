@@ -291,6 +291,8 @@
 
     123: Svědecká výpověď jiného hráče nemusí být považována za plnohodnotný důkaz, jelikož nelze zaručit ani vymáhat ručení pravdivosti této výpovědi.
 
+    177: Hráči, který je šetřen pro porušení pravidel je zakázáno a-teamu lhát (vč. lži ze zamlčení) nebo poskytovat nepravdivé údaje. Pokud tímto zkomplikuje šetření případu, půjde mu tato skutečnost k tíži.
+
 # Komunikace s a-teamem
   § E-mail
     109: Jako primární a preferovaný komunikační prostředek pro veškeré formální záležitosti, obchodní nabídky a další je hromadná e-mailová schránka [info@minehub.cz](mailto:info@minehub.cz). Tato e-mailová schránka je obsluhována několika členy vedení a je považována za oficiální komunikační platformu serveru. Tato e-mailová schránka je také určena jako oficiální komunikační kanál pro státní instituce za účelem komunikace elektronickou poštou s Provozovatelem.
