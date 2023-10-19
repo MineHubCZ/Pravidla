@@ -112,7 +112,19 @@
 
     26: Hráči je zakázáno obcházet tresty. Za obcházení trestu se považuje takové jednání, které je v rozporu s účelem či výkonem trestu, nebo jej jinak maří (zejména, ale ne výhradně využívání jiného herního účtu /v rozporu s @25/ nebo znemožnění identifikace hráče, např. tunelováním za účelem změny zdrojové IP adresy /v rozporu s @52/).
 
-    27: Hráči je povoleno připojovat se pouze přes klienty, které jej nijak nezvýhodňují oproti ostatním. Hráči je zakázáno používat BetterDiscord.
+    27: Hráči je zakázáno používat pro přístup ke službám jakékoliv prostředky (modifikace - softwareové nebo i hardwareové, alternativní klienty, zatěžování a přelepování perfierií, úprava nastavení periferií tak, aby jednaly odlišným způsobem než perfierie běžné, minimapa, BetterDiscord apod.), které jej zvýhodňují oporti ostatním hráčům, výjma těchto:
+      1. Minecraft herní modifikace [OptiFine](https://optifine.net/home),
+      2. Minecraft herní modifikace [ReplayMod](https://www.replaymod.com) po předchozí domluvě s a-teamem,
+	    3. Minecraft herní modifikace umožňující schopnost togglesneak nebo togglesprint,
+	    4. Minecraft herní modifikace [Litematica](https://github.com/maruohon/litematica), přičemž je povoleno jej používat pouze na vlastní stavby nebo na stavby, jejichž autor použití módu jeho uživateli informovaně schválil,
+    	5. modifikace herní modifikace Litematica: [malilib](https://github.com/maruohon/malilib),
+	    6. Minecraft herní klient [LabyMod](https://www.labymod.net/en),
+	    7. Minecraft herní klient [Lunar Client](https://www.lunarclient.com),
+	    8. Minecraft herní klient [TLauncher](https://tlauncher.org/),
+	    9. Minecraft herní klient [Badlion Client](https://client.badlion.net),
+	    10. Minectaft herní klient [Feather Client](https://feathermc.com),
+    	11. vlastnost low fire, která je dána resourcepackem, který jiným způsobem hráče nezvýhodňuje.
+    Uvedené klienty nesmí mít aktivní minimapu.
 
     39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet kompromitaci (např. odcizení) hesla.
 
