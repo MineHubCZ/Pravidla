@@ -124,7 +124,7 @@
 	    7. Minecraft herní klient [Lunar Client](https://www.lunarclient.com),
 	    8. Minecraft herní klient [TLauncher](https://tlauncher.org/),
 	    9. Minecraft herní klient [Badlion Client](https://client.badlion.net),
-	    10. Minectaft herní klient [Feather Client](https://feathermc.com),
+	    10. Minecraft herní klient [Feather Client](https://feathermc.com),
     	11. vlastnost low fire, která je dána resourcepackem, který jiným způsobem hráče nezvýhodňuje.
     Uvedené klienty nesmí mít aktivní minimapu.
 
