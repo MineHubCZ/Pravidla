@@ -105,6 +105,8 @@
 
     176: Pokud se hráč, kterému byla podána bezpodmínečná výzva (@174) domnívá, že tato výzva byla v rozporu s Pravidly a jejich výkladem a nebo že nechránila oprávněný zájem provozovatele nebo a-teamu, má právo **zpětně** právoplatnost této výzvy rozporovat v ticketu s vedením, typ „Stížnost na člena admin týmu“. V případě neprokázání náležitého účelu dané výzvy členem a-teamu, který ji uvalil, bude tento člen a-teamu trestán a případně dle uvážení vyššího a-teamu bude dotčený hráč kompenzován.
 
+    178: Hráči je zakázáno [bezdůvodné obohacení](https://cs.wikipedia.org/wiki/Bezdůvodné_obohacení), tj. obohacení se na úkor druhého hráče bez spravedlivého důvodu (např. omyl na straně ochuzeného). V případě, kdy k bezdůvodnému obohacení dojde, je obohacený hráč povinen ochuzenému hráči vrátit to, o co se bezdůvodně obohatil.
+
   § Užívání služeb
     24: Hráči je zakázáno jednat tak, že by mohl poškodit provozovatele, jim poskytované služby nebo značku MineHub.
 
