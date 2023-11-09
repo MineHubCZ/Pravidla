@@ -155,7 +155,7 @@
 
     104: Hráči je zakázáno stavět či provozovat automatickou farmu (zařízení, které užívá ke sklizni redstone) o šířce nebo hloubce větší než 256 bloků. Výškový limit není omezen.
 
-    130: Při podezření na nedovolený AFKing (v rozporu s pravidlem @78) je člen a-teamu oprávněn zprávou ověřit, zda je hráč přítomen a schopen způsobile odpovědět (tedy se nedopouští nedovoleného AFKingu). Hráč podezřelý z nedovoleného AFKingu je povinen na tuto zprávu odpovědět do 30 sekund, jinak může být trestán za porušení zmiňovaného pravidla.
+    130: Při podezření na nedovolený AFKing (v rozporu s pravidlem @78) je člen a-teamu oprávněn zprávou ověřit, zda je hráč přítomen a schopen způsobile odpovědět (tedy se nedopouští nedovoleného AFKingu). Hráč podezřelý z nedovoleného AFKingu je povinen na tuto zprávu odpovědět do 30 sekund, jinak může být trestán za porušení zmiňovaného pravidla. Další možností ověření je teleportace podezřelého hráče členem a-teamu na jinou pozici, přičemž pokud hráč na teleportaci nezareaguje (např. pokračuje v těžení bloku), bude potrestán za nedovolený AFKing.
 
     131: Hráči je zakázáno na spawnu prutování. Současně je zakázáno používat jej nebo obdobné prostředky ke kažení parkouru.
 
@@ -217,7 +217,7 @@
 
     71: Vesničani v residenci patří majiteli residence.
 
-    72: Jeden hráč může vlastnit nejvýše čtyři vesničany v rámci celého serveru.
+    72: Jeden hráč může vlastnit nejvýše 32 vesničanů v rámci celého serveru.
 
     173: V případě vykázání hráče z residence jejím majitelem je hráč povinen residenci neprodleně opustit a současně se zdržet jakýchkoliv pokusů o opětovný návrat do dané residence.
 
@@ -263,7 +263,7 @@
 
     74: Hráči je zakázáno umisťovat platební cedulky (@83) tak, že je možné, že je jiný hráč při teleportování na warp neúmyslně zaktivuje.
 
-    80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout (např. vesničan).
+    80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout.
 
     164: Člen admin-teamu nemůže hráči potvrdit korektnost obchodu, kasina nebo herního automatu cedulkou, knížkou, ani žádným obdobným prostředkem.
 
