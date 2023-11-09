@@ -217,7 +217,7 @@
 
     71: Vesničani v residenci patří majiteli residence.
 
-    72: Jeden hráč může vlastnit nejvýše čtyři vesničany v rámci celého serveru.
+    72: Jeden hráč může vlastnit nejvýše 32 vesničanů v rámci celého serveru.
 
     173: V případě vykázání hráče z residence jejím majitelem je hráč povinen residenci neprodleně opustit a současně se zdržet jakýchkoliv pokusů o opětovný návrat do dané residence.
 
@@ -263,7 +263,7 @@
 
     74: Hráči je zakázáno umisťovat platební cedulky (@83) tak, že je možné, že je jiný hráč při teleportování na warp neúmyslně zaktivuje.
 
-    80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout (např. vesničan).
+    80: Hráči je zakázáno prodávat spawnovací vajíčka takových mobů, které nelze spawnout.
 
     164: Člen admin-teamu nemůže hráči potvrdit korektnost obchodu, kasina nebo herního automatu cedulkou, knížkou, ani žádným obdobným prostředkem.
 
