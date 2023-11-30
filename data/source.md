@@ -99,7 +99,7 @@
 
     125: Hráč, který je subjektem osobních údajů utajovaných dle @100 může jiného hráče zprostit mlčenlivosti.
 
-    138: Hráči je zakázáno vytěžování informací od členů a-teamu, jenž jsou interního charakteru (např. užité fonty na herním serveru, použité pluigny atd.). Pravidlo se nevztahuje na dotazy obecného rázu, jako např. „Máte na serveru vlastní pluginy dělané na míru?“.
+    138: Hráči je zakázáno vytěžování informací od členů a-teamu, jenž jsou interního charakteru (např. užité fonty na herním serveru, použité pluginy atd.). Pravidlo se nevztahuje na dotazy obecného rázu, jako např. „Máte na serveru vlastní pluginy dělané na míru?“.
 
     175: Pokud člen a-teamu hráči podá bezpodmínečnou výzvu (@174), je hráč povinen se neprodleně výzvě podrobit a příkaz uposlechnout.
 
