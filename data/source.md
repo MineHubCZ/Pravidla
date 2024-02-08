@@ -157,7 +157,7 @@
 
     130: Při podezření na nedovolený AFKing (v rozporu s pravidlem @78) je člen a-teamu oprávněn zprávou ověřit, zda je hráč přítomen a schopen způsobile odpovědět (tedy se nedopouští nedovoleného AFKingu). Hráč podezřelý z nedovoleného AFKingu je povinen na tuto zprávu odpovědět do 30 sekund, jinak může být trestán za porušení zmiňovaného pravidla. Další možností ověření je teleportace podezřelého hráče členem a-teamu na jinou pozici, přičemž pokud hráč na teleportaci nezareaguje (např. pokračuje v těžení bloku), bude potrestán za nedovolený AFKing.
 
-    131: Hráči je zakázáno na spawnu prutování. Současně je zakázáno používat jej nebo obdobné prostředky ke kažení parkouru.
+    131: Hráči je zakázáno na spawnu prutování, nebo využívání efektu itemu flusačka. Současně je zakázáno používat jej nebo obdobné prostředky ke kažení parkouru.
 
     165: Hráči je zakázáno používat autoclicker, nebo obdobné prostředky, které by mohly být považovány za ekvivalentní autoclickeru (např. bindování akce kliknutí levým myši v Minecraftu na jiný vstup, než je levé tlačítko myši).
 
