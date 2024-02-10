@@ -199,9 +199,13 @@
 
 § Minihry a EventServer
 
-  47: Při hraní miniher nebo účasti na eventu na EventServeru je hráči zakázána spolupráce s jinými týmy nebo zvýhodňování hráčů z jiného týmu oproti ostatním.
+    47: Při hraní miniher nebo účasti na eventu na EventServeru je hráči zakázána spolupráce s jinými týmy nebo zvýhodňování hráčů z jiného týmu oproti ostatním.
 
-  77: Na všech minihrách je zakázáno v krátkém časovém úseku opakovaně zabíjet hráče na místě, kde se spawnují (tzv. spawnkilling).
+    77: Na všech minihrách je zakázáno v krátkém časovém úseku opakovaně zabíjet hráče na místě, kde se spawnují (tzv. spawnkilling).
+
+    179: Hráčům je zakázáno kazit spoluhráčům hraní miniher. Konkrétně je zakázáno:
+      - opakovaně se odpojit v období odpočtu do začátku spuštění minihry z čekacího lobby tak, že tím hráč způsobí přerušení tohoto odpočtu. Taktéž je zakázáno k tomuto jednání jiné hráče vybízet.
+      - se skrývat (bez získávání dalšího postupu např. craftěním/enchantováním/vařením itemů) ve finální fázi minihry s efektem zbytečného prodlužování hry před jejím koncem.
 
 # Warpy a residence
   § Residenční právo
