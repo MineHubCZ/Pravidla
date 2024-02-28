@@ -182,6 +182,8 @@
 
     172: Za reklamu ve smyslu @29 je považována také jakákoliv propagace Discord serveru, který není z tohoto omezení vyloučen výjimkou udělenou vyšším a-teamem. Seznam takovýchto serverů je k nalezení na MineHub.cz Discord serveru v kanále \#pravidla (id: 673444062757388301).
 
+    180: Chatový asistent řízený umělou inteligencí (v herním chatu vystupuje pod přezdívkou „AIDA“) neposkytuje výklad pravidel. Odpovědi na dotazy, které AIDA podává, nelze považovat za závazné nebo správné. Pokud se hráč bude řídit pokyny AIDY a v důsledku toho utrpí škodu, nebude mu poskytnuta žádná náhrada.
+
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
 
