@@ -110,7 +110,7 @@
   § Užívání služeb
     24: Hráči je zakázáno jednat tak, že by mohl poškodit provozovatele, jim poskytované služby nebo značku MineHub.
 
-    25: Hráči je dovoleno vlastnit a užívat právě jeden herní účet. Je zakázáno mít více než jeden herní účet registrovaný z jedné IP adresy až na výjimky, které může individuálně udělit a-team (na žádost v ticketu na Discordu).
+    25: Hráči je dovoleno vlastnit a užívat právě jeden herní účet. Jednu IP adresu smí používat více hráčů, každý z vlastního účtu. Dojde-li k porušení pravidel kterýmkoliv z těchto účtů, může na ně být pohlíženo jako na více účtů vlastněných jedním hráčem (tzv. multiaccount). Hráčům přísluší prokázat opak.
 
     26: Hráči je zakázáno obcházet tresty. Za obcházení trestu se považuje takové jednání, které je v rozporu s účelem či výkonem trestu, nebo jej jinak maří (zejména, ale ne výhradně využívání jiného herního účtu /v rozporu s @25/ nebo znemožnění identifikace hráče, např. tunelováním za účelem změny zdrojové IP adresy /v rozporu s @52/).
 
