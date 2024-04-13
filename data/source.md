@@ -261,7 +261,7 @@
 
     53: Hráči je zakázáno prodávat předměty, které by jiní hráči mohli chybně považovat za MineHub itemy (@101), např. běžný item s názvem MineHub itemu.
 
-    56: Hráči je zakázáno prodávat nedutou wither hlavu, pokud řádně a jednoznačně neuvede fakt, že se jedná pouze o dekorační předmět, nikoliv o předmět pro crafting beaconu (taková hlava je dutá).
+    56: Hráči je zakázáno prodávat nedutou wither skeleton hlavu, pokud řádně a jednoznačně neuvede fakt, že se jedná pouze o dekorační předmět, nikoliv o předmět pro crafting beaconu (taková hlava je dutá).
 
     64: V systému aukcí (příkaz `/ah`) je hráči zakázáno prodávat itemy za účelem propagace vlastního warpu nebo obchodu nebo itemy s názvy obsahujícími vulgarismy. Jedná se např. o itemy s názvy odpovídajícími názvu propagovaného místa.
 
