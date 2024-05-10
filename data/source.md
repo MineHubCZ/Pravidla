@@ -126,7 +126,7 @@
 	    9. Minecraft herní klient [Badlion Client](https://client.badlion.net),
 	    10. Minecraft herní klient [Feather Client](https://feathermc.com),
     	11. vlastnost low fire, která je dána resourcepackem, který jiným způsobem hráče nezvýhodňuje.
-    Uvedené klienty nesmí mít aktivní minimapu.
+    Uvedené klienty nesmí mít aktivní funkci, která by hráče přímo zvýhodňovala (X-ray resourcepack, minimapa, voda/láva bez textury, aj.), pokud má hráč nejistotu, může se zeptat členů Admin-Teamu na komunikačních platformách serveru.
 
     39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet kompromitaci (např. odcizení) hesla.
 
