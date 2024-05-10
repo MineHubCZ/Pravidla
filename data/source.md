@@ -114,7 +114,7 @@
 
     26: Hráči je zakázáno obcházet tresty. Za obcházení trestu se považuje takové jednání, které je v rozporu s účelem či výkonem trestu, nebo jej jinak maří (zejména, ale ne výhradně využívání jiného herního účtu /v rozporu s @25/ nebo znemožnění identifikace hráče, např. tunelováním za účelem změny zdrojové IP adresy /v rozporu s @52/).
 
-    27: Hráči je zakázáno používat pro přístup ke službám jakékoliv prostředky (modifikace - softwareové nebo i hardwareové, alternativní klienty, zatěžování a přelepování perfierií, úprava nastavení periferií tak, aby jednaly odlišným způsobem než perfierie běžné, minimapa, BetterDiscord apod.), které jej zvýhodňují oporti ostatním hráčům, výjma těchto:
+    27: Hráči je zakázáno používat pro přístup ke službám jakékoliv prostředky (modifikace - softwareové nebo i hardwareové, alternativní klienty, zatěžování a přelepování perfierií, úprava nastavení periferií tak, aby jednaly odlišným způsobem než perfierie běžné, minimapa, BetterDiscord apod.), které jej zvýhodňují oproti ostatním hráčům, výjma těchto:
       1. Minecraft herní modifikace [OptiFine](https://optifine.net/home),
       2. Minecraft herní modifikace [ReplayMod](https://www.replaymod.com) po předchozí domluvě s a-teamem,
 	    3. Minecraft herní modifikace umožňující schopnost togglesneak nebo togglesprint,
@@ -126,7 +126,7 @@
 	    9. Minecraft herní klient [Badlion Client](https://client.badlion.net),
 	    10. Minecraft herní klient [Feather Client](https://feathermc.com),
     	11. vlastnost low fire, která je dána resourcepackem, který jiným způsobem hráče nezvýhodňuje.
-    Uvedené klienty nesmí mít aktivní funkci, která by hráče přímo zvýhodňovala (X-ray resourcepack, minimapa, voda/láva bez textury, aj.), pokud má hráč nejistotu, může se zeptat členů Admin-Teamu na komunikačních platformách serveru.
+    Uvedené klienty nesmí mít aktivní funkci, která by hráče přímo zvýhodňovala (X-ray resourcepack, minimapa, blocky/láva/voda bez textury, aj.). Pokud si hráč není jistý, ohledně toho, zda smí být dané funkce používané může se zeptat členů Admin-Teamu na komunikačních platformách serveru.
 
     39: Hráč je povinen si veškeré své přístupové a herní účty zabezpečit silnými (netriviálními) hesly (případně jinými metodami), aby minimalizoval riziko odcizení účtu. Hráč musí předcházet kompromitaci (např. odcizení) hesla.
 
