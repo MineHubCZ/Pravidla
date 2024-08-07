@@ -164,7 +164,7 @@
     181: Hráči je zakázáno používat jakékoliv exploze na serveru OneBlock k ničení svého blocku.
 
   § Komunikace
-    28: Hráč je povinen se na komunikačních kanálech služeb vyjadřovat slušně a zdržet se projevů nenávisti (rasismus, homofobie, transfobie aj.) a propagace nenávistných ideologií (nacismus, fašismus aj.). Je zakázáno vulgární chování vůči ostatním hráčům.
+    28: Hráč je povinen se na komunikačních kanálech služeb vyjadřovat slušně a zdržet se projevů nenávisti (rasismus, homofobie, transfobie aj.) a propagace nenávistných ideologií (nacismus, fašismus aj.). Je zakázáno vulgární chování vůči ostatním hráčům. Je zakázáno k porušování tohoto ustanovení využívat 
 
     29: Hráči je zakázáno propagovat konkurenční herní portály. Za takovouto propagaci (tzv. reklamu) je považováno zejména, ale ne výlučně: název, IP adresa, doménové jméno Minecraft Serveru nebo TeamSpeak 3 Serveru; webová adresa; Discord pozvánka; odkaz na profil na sociálních sítích.
 
