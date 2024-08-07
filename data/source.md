@@ -164,7 +164,7 @@
     181: Hráči je zakázáno používat jakékoliv exploze na serveru OneBlock k ničení svého blocku.
 
   § Komunikace
-    28: Hráč je povinen se na komunikačních kanálech služeb vyjadřovat slušně a zdržet se projevů nenávisti (rasismus, homofobie, transfobie aj.) a propagace nenávistných ideologií (nacismus, fašismus aj.). Je zakázáno vulgární chování vůči ostatním hráčům. Je zakázáno k porušování tohoto ustanovení využívat 
+    28: Hráč je povinen se na komunikačních kanálech služeb vyjadřovat slušně a zdržet se projevů nenávisti (rasismus, homofobie, transfobie aj.) a propagace nenávistných ideologií (nacismus, fašismus aj.). Je zakázáno vulgární chování vůči ostatním hráčům.
 
     29: Hráči je zakázáno propagovat konkurenční herní portály. Za takovouto propagaci (tzv. reklamu) je považováno zejména, ale ne výlučně: název, IP adresa, doménové jméno Minecraft Serveru nebo TeamSpeak 3 Serveru; webová adresa; Discord pozvánka; odkaz na profil na sociálních sítích.
 
@@ -174,7 +174,7 @@
 
     169: Pod zahlcování chatu také spadá přidávání reakcí na velké množství zpráv (zejméně, ale ne výhradně konsekutivních v rámci jednoho kanálu) za účelem ztížení čitelnosti obsahu kanálu. Hráč bude před udělením případného trestu varován a vyzván k objasnění situace.
 
-    46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice v mezích určených zákonem. Zakázáno je tak např. komunikovat o tom, kde lze drogy koupit nebo dokonce domlouvat obchody. Oproti tomu např. pojmenování herního itemu podle drogy toto pravidlo nezakazuje.
+    46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice, v mezích určených zákonem. Stejně tak je zakázáno diskutovat o látkách, jejichž prodej je omezen věkem, v přítomnosti osob k jejich koupi nezpůsobilých. Zakázáno je tak např. komunikovat o tom, kde lze drogy koupit nebo dokonce domlouvat obchody. Oproti tomu např. pojmenování herního itemu podle drogy toto pravidlo nezakazuje.
 
     75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního nebo romantického vztahu či za účelem získání jeho citlivých údajů.
 
@@ -185,6 +185,8 @@
     172: Za reklamu ve smyslu @29 je považována také jakákoliv propagace Discord serveru, který není z tohoto omezení vyloučen výjimkou udělenou vyšším a-teamem. Seznam takovýchto serverů je k nalezení na MineHub.cz Discord serveru v kanále \#pravidla (id: 673444062757388301).
 
     180: Chatový asistent řízený umělou inteligencí (v herním chatu vystupuje pod přezdívkou „AIDA“) neposkytuje výklad pravidel. Odpovědi na dotazy, které AIDA podává, nelze považovat za závazné nebo správné. Pokud se hráč bude řídit pokyny AIDY a v důsledku toho utrpí škodu, nebude mu poskytnuta žádná náhrada.
+
+    182: Je zakázáno vybízet ostatní hráče k porušování pravidel. Stejně tak je zakázáno k tomuto účelu využívat chatového asistenta či jiné automatizované služby.
 
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
