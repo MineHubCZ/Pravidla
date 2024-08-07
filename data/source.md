@@ -186,7 +186,9 @@
 
     180: Chatový asistent řízený umělou inteligencí (v herním chatu vystupuje pod přezdívkou „AIDA“) neposkytuje výklad pravidel. Odpovědi na dotazy, které AIDA podává, nelze považovat za závazné nebo správné. Pokud se hráč bude řídit pokyny AIDY a v důsledku toho utrpí škodu, nebude mu poskytnuta žádná náhrada.
 
-    182: Je zakázáno vybízet ostatní hráče k porušování pravidel. Stejně tak je zakázáno k tomuto účelu využívat chatového asistenta či jiné automatizované služby.
+    182: Porušování pravidel prostřednictvím chatového asistenta či jiné automatizované služby může být trestáno jako přímé.
+
+    183: Hráč nesmí jiného podněcovat k porušení pravidel, ani jej za jejich porušení odměnit, odškodnit či odměnu nebo odškodnění slíbit. 
 
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
