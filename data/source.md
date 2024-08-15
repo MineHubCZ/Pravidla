@@ -174,7 +174,7 @@
 
     169: Pod zahlcování chatu také spadá přidávání reakcí na velké množství zpráv (zejméně, ale ne výhradně konsekutivních v rámci jednoho kanálu) za účelem ztížení čitelnosti obsahu kanálu. Hráč bude před udělením případného trestu varován a vyzván k objasnění situace.
 
-    46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice v mezích určených zákonem. Zakázáno je tak např. komunikovat o tom, kde lze drogy koupit nebo dokonce domlouvat obchody. Oproti tomu např. pojmenování herního itemu podle drogy toto pravidlo nezakazuje.
+    46: Hráči je zakázáno na komunikačních kanálech hovořit o drogách, které jsou nelegální v České a Slovenské republice, v mezích určených zákonem. Stejně tak je zakázáno diskutovat o látkách, jejichž prodej je omezen věkem, v přítomnosti osob k jejich koupi nezpůsobilých. Zakázáno je tak např. komunikovat o tom, kde lze drogy koupit nebo dokonce domlouvat obchody. Oproti tomu např. pojmenování herního itemu podle drogy toto pravidlo nezakazuje.
 
     75: Hráči je zakázáno kontaktovat jiného hráče za účelem navázání sexuálního nebo romantického vztahu či za účelem získání jeho citlivých údajů.
 
@@ -185,6 +185,10 @@
     172: Za reklamu ve smyslu @29 je považována také jakákoliv propagace Discord serveru, který není z tohoto omezení vyloučen výjimkou udělenou vyšším a-teamem. Seznam takovýchto serverů je k nalezení na MineHub.cz Discord serveru v kanále \#pravidla (id: 673444062757388301).
 
     180: Chatový asistent řízený umělou inteligencí (v herním chatu vystupuje pod přezdívkou „AIDA“) neposkytuje výklad pravidel. Odpovědi na dotazy, které AIDA podává, nelze považovat za závazné nebo správné. Pokud se hráč bude řídit pokyny AIDY a v důsledku toho utrpí škodu, nebude mu poskytnuta žádná náhrada.
+
+    182: Porušování pravidel prostřednictvím chatového asistenta či jiné automatizované služby může být trestáno jako přímé.
+
+    183: Hráč nesmí jiného podněcovat k porušení pravidel, ani jej za jejich porušení odměnit, odškodnit či odměnu nebo odškodnění slíbit. 
 
   § PVP
     40: Pokud hráč chce vyzvat jiného hráče k teleportaci na místo, kde je povoleno PvP, musí jej před výzvou na tuto skutečnost upozornit.
